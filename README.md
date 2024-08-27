@@ -8,7 +8,7 @@ GRUPO 12
 
 INTEGRANTES:
 - 
-
+<img width="620" alt="Captura de pantalla 2024-08-27 a la(s) 15 49 38" src="https://github.com/user-attachments/assets/9ee04d3e-d7c2-4028-9153-fedffae99a4d">
 
 
 PRESENTACIONES:
