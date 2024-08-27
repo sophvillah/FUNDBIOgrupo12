@@ -7,7 +7,7 @@ ANEMIA: UNO DE LOS PRINCIPALES PROBLEMAS DE DESNUTRICIÓN CRÓNICA EN EL PERÚ
 Figura 1: Anemia en Áncash. Fuente: Instituto Peruano de Economía. (15 de julio de 2018). https://www.ipe.org.pe/portal/anemia-en-ancash/ 
 
 \
-OBJETIVO
+OBJETIVOS
 
 El principal objetivo de este entregable es profundizar el contexto mundial y nacional de la problemática escogida, la crisis nutricional que ha generado la anemia. Para ello, se han consultado diversos artículos científicos, estado del arte, que han permitido establecer un panorama más claro para analizar la implementación de un Open Hardware que pueda solucionar uno de los principales problemas de desnutrición del Perú, la anemia. 
 
