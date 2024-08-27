@@ -3,9 +3,10 @@ ENTREGABLE N°1
 
 ANEMIA: UNO DE LOS PRINCIPALES PROBLEMAS DE DESNUTRICIÓN CRÓNICA EN EL PERÚ
 - 
+![image](https://github.com/user-attachments/assets/7f46e0c9-b707-4b4f-a37c-08714b406ca2)
 Figura 1: Anemia en Áncash. Fuente: Instituto Peruano de Economía. (15 de julio de 2018). https://www.ipe.org.pe/portal/anemia-en-ancash/ 
 
-
+\
 OBJETIVO
 
 El principal objetivo de este entregable es profundizar el contexto mundial y nacional de la problemática escogida, la crisis nutricional que ha generado la anemia. Para ello, se han consultado diversos artículos científicos, estado del arte, que han permitido establecer un panorama más claro para analizar la implementación de un Open Hardware que pueda solucionar uno de los principales problemas de desnutrición del Perú, la anemia. 
@@ -28,52 +29,45 @@ DESARROLLO DE LA TEMÁTICA
 
 El hardware abierto u open hardware, son aquellos cuyos diseños de dispositivos electrónicos son liberados de manera que se pueda estudiar, modificar, fabricar y distribuir el dispositivo de manera libre. En síntesis, se trata de tecnología a la que cualquiera puede acceder y compartir sin restricciones, una suerte de software de código abierto. Con el fin de calificar como open hardware, existen ciertos requisitos que deben cumplirse. En primer lugar, el proyecto debe mostrar toda la documentación que permita a otras personas comprender y trabajar con el diseño, sea este físico o virtual. Adicionalmente, debe quedar claro qué aspecto del diseño está siendo liberado. Si el hardware involucra software, este debe ser de código abierto. La licencia con la cual el hardware será compartido debe permitir modificaciones y distribución sin compartir regalías, aunque sí puede requerir atribuciones. No debe haber discriminación de clase y derechos de redistribución para aquellos que compartan el hardware. [9]
 
-
+\
 CONTEXTO MUNDIAL
 
 La anemia es una de las principales enfermedades que afecta mundialmente a la población, sobre todo a mujeres y a niños. Existen diferentes tipos de anemia entre las cuales están la anemia por deficiencia de hierro (ADH), por deficiencia de vitamina B12, hemolítica, ferropénica, etc. Sin embargo, la ADH es la que prevalece más en el mundo. De acuerdo con la Organización Mundial de la Salud, se estima que hasta un poco más de la cuarta parte de la población mundial padece de ADH. [10] La ADH puede ser debido a una ausencia en la dieta de hierro por una mala absorción del sistema gastrointestinal. [11] 
 
 En Perú, hasta el 2021, casi el 20% de mujeres entre 15 y 49 años padecieron anemia. En el caso de los niños de 6 a 35 meses fue de un 38.8%. Además, del total de todos los casos registrados, se encontró que la mayor parte prevalece en zona rural (48.7%) de acuerdo con estadísticas del INEI. 
 
-
+\
 ESTADO DEL ARTE
 
 - Detection of iron deficiency anemia by medical   images: A comparative study of machine learning algorithms
 
-  Autor principal: Peter Appiahene
-  
-  Fecha de publicación: 24 de enero de 2023
-  
+  Autor principal: Peter Appiahene\
+  Fecha de publicación: 24 de enero de 2023\
   Resumen: Este estudio nos brinda información reciente y útil para saber el estado actual de detección de anemia con métodos no invasivos, utilizando el método de “Machine Learning” para poder aumentar la eficiencia de sus resultados [12].
 
-\.
+
 - Dispositivo de detección de hemoglobina no invasivo basado en fotopletismografía multiespectral
 
-  Autor principal: Zhen Cheng Chen
-  
-  Fecha de publicación: 30 de diciembre de 2023
-  
+  Autor principal: Zhen Cheng Chen\
+  Fecha de publicación: 30 de diciembre de 2023\
   Resumen: Este dispositivo es una innovación única en el mercado ya que detecta la hemoglobina del paciente mediante fotopletismografía multiespectral, el cual propone una solución no invasiva para evitar  infecciones y dolor al sacar una muestra de sangre convencional. Este dispositivo usa 8 LEDS y, gracias por el diseño 3D se recopila señales de fotopletismografía ;creando un modelo de regresión .Entre los modelos de regresión , el modelo  AdaBoost tuvo el mejor rendimiento con un error absoluto de 2,67 g/L. [9]
 
-\.
+
 - sHEMO: Smartphone Spectroscopy for Blood Hemoglobin Level Monitoring in Smart Anemia-Care
 
-  Autores: Sagnik Ghosal, Debanjan Das y Venkanna Udutalapally
-  
-  Fecha de publicación: 14 de diciembre de 2020
-  
+  Autores: Sagnik Ghosal, Debanjan Das y Venkanna Udutalapally\
+  Fecha de publicación: 14 de diciembre de 2020\
   Resumen: Se trata de la aplicación SHEMO disponible en los teléfonos inteligentes que  utiliza la espectroscopia para analizar una imagen  y estimar el nivel de hemoglobina del paciente a partir de la palidez conjuntival del ojo. [9]
-
 
 \
 DIAGRAMA DE ISHIKAWA
 
+![Diagrama de Ishikawa](https://github.com/user-attachments/assets/5c95f92d-1c70-4063-8f61-f7faaefc0071)
 
 \
 DEFINICIÓN DEL PROBLEMA
 
 “La mala distribución y organización, por parte del Estado, en centros de salud retrasan la atención a pacientes con anemia en el país”.
-
 
 \
 BIBLIOGRAFÍA
