@@ -39,7 +39,7 @@ En Perú, hasta el 2021, casi el 20% de mujeres entre 15 y 49 años padecieron a
 \
 ESTADO DEL ARTE
 
-- Detection of iron deficiency anemia by medical   images: A comparative study of machine learning algorithms
+- Detection of iron deficiency anemia by medical images: A comparative study of machine learning algorithms
 
   Autor principal: Peter Appiahene\
   Fecha de publicación: 24 de enero de 2023\
@@ -50,14 +50,14 @@ ESTADO DEL ARTE
 
   Autor principal: Zhen Cheng Chen\
   Fecha de publicación: 30 de diciembre de 2023\
-  Resumen: Este dispositivo es una innovación única en el mercado ya que detecta la hemoglobina del paciente mediante fotopletismografía multiespectral, el cual propone una solución no invasiva para evitar  infecciones y dolor al sacar una muestra de sangre convencional. Este dispositivo usa 8 LEDS y, gracias por el diseño 3D se recopila señales de fotopletismografía ;creando un modelo de regresión .Entre los modelos de regresión , el modelo  AdaBoost tuvo el mejor rendimiento con un error absoluto de 2,67 g/L. [9]
+  Resumen: Este dispositivo es una innovación única en el mercado ya que detecta la hemoglobina del paciente mediante fotopletismografía multiespectral, el cual propone una solución no invasiva para evitar  infecciones y dolor al sacar una muestra de sangre convencional. Este dispositivo usa 8 LEDS y, gracias añ diseño 3D se recopila señales de fotopletismografía; creando un modelo de regresión. Entre los prototipos de regresión presentados, el modelo AdaBoost tuvo el mejor rendimiento con un error absoluto de 2,67 g/L. [13]
 
 
 - sHEMO: Smartphone Spectroscopy for Blood Hemoglobin Level Monitoring in Smart Anemia-Care
 
   Autores: Sagnik Ghosal, Debanjan Das y Venkanna Udutalapally\
   Fecha de publicación: 14 de diciembre de 2020\
-  Resumen: Se trata de la aplicación SHEMO disponible en los teléfonos inteligentes que  utiliza la espectroscopia para analizar una imagen  y estimar el nivel de hemoglobina del paciente a partir de la palidez conjuntival del ojo. [9]
+  Resumen: Se trata de la aplicación SHEMO disponible en los teléfonos inteligentes que utiliza la espectroscopia para analizar una imagen y estimar el nivel de hemoglobina del paciente a partir de la palidez conjuntival del ojo. [14]
 
 \
 DIAGRAMA DE ISHIKAWA
@@ -84,5 +84,8 @@ BIBLIOGRAFÍA
 - [10] T. Owaidah et al., «Iron Deficiency and Iron Deficiency Anemia Are Common Epidemiological Conditions in Saudi Arabia: Report of the National Epidemiological Survey», Anemia, vol. 2020, p. 6642568, 2020. https://doi.org/10.1155/2020/6642568
 - [11] B. R. Abramowitz, H. Saba, A. Aytaman, D. A. DiLeo, y B. C. Roland, «Diagnostic yield of bidirectional endoscopy for iron deficiency anemia in young patients», BMC Gastroenterol, vol. 24, n.o 1, p. 269, ago. 2024. https://doi.org/10.1186/s12876-024-03372-y
 - [12] Appiahene, P., Asare, J. W., Donkoh, E. T., Dimauro, G., & Maglietta, R. (2023). Detection of iron deficiency anemia by medical images: a comparative study of machine learning algorithms. BioData mining, 16(1), 2.
+- [13] J. Zhu et al., “A Non-Invasive hemoglobin detection device based on multispectral photoplethysmography,” Biosensors, vol. 14, no. 1, p. 22, Dec. 2023. https://doi.org/10.3390/bios14010022
+- [14] “SHEMO: Smartphone spectroscopy for blood hemoglobin level monitoring in Smart Anemia-Care,” IEEE Journals & Magazine | IEEE Xplore, Mar. 15, 2021. https://ieeexplore.ieee.org/document/9293134 
+
 
 
