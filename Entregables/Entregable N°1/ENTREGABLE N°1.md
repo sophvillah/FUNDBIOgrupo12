@@ -36,7 +36,7 @@ CONTEXTO MUNDIAL
 
 La anemia es una de las principales enfermedades que afecta mundialmente a la población, sobre todo a mujeres y a niños. Esta enfermedad es causada por la baja concentración de hemoglobina que puede deberse a varios factores. Existen diferentes tipos de anemia entre las cuales están la anemia por deficiencia de hierro (ADH), por deficiencia de vitamina B12, hemolítica, ferropénica, etc. Sin embargo, la ADH es la que prevalece más en el mundo. De acuerdo con la Organización Mundial de la Salud, se estima que hasta un poco más de la cuarta parte de la población mundial padece de ADH. [12] La ADH puede ser debido a una ausencia en la dieta de hierro por una mala absorción del sistema gastrointestinal. [13] 
 
-En Perú, hasta el 2021, casi el 20% de mujeres entre 15 y 49 años padecieron anemia. En el caso de los niños de 6 a 35 meses fue de un 38.8%. Además, del total de todos los casos registrados, se encontró que la mayor parte prevalece en zona rural (48.7%) que la de urbana (35.3%) de acuerdo con estadísticas del INEI. 
+En Perú, hasta el 2021, casi el 20% de mujeres entre 15 y 49 años padecieron anemia. En el caso de los niños de 6 a 35 meses fue de un 38.8%. Además, del total de todos los casos registrados, se encontró que la mayor parte prevalece en zona rural (48.7%) que la de urbana (35.3%) de acuerdo con estadísticas del INEI. [14]
 
 En Perú, la técnica que se usa regularmente para realizar la detección de anemia es el sistema HemoCue. Este consiste en un sistema portàtil que analiza la sangre obtenida mediante un punzón en el dedo, este sistema funciona mediante un fotómetro en la cabecera del paciente. Sin embargo, es difícil adquirir estos equipos si se desea llevar a zonas rurales, el precio de estos oscila entre S/.1500 a S/.2000 por lo que es complicado si se desea adquirir en un hospital o en una posta en una zona rural. 
 
@@ -47,21 +47,21 @@ ESTADO DEL ARTE
 
   Autor principal: Peter Appiahene\
   Fecha de publicación: 24 de enero de 2023\
-  Resumen: Este estudio nos brinda información reciente y útil para saber el estado actual de detección de anemia con métodos no invasivos, utilizando el método de “Machine Learning” para poder aumentar la eficiencia de sus resultados [14].
+  Resumen: Este estudio nos brinda información reciente y útil para saber el estado actual de detección de anemia con métodos no invasivos, utilizando el método de “Machine Learning” para poder aumentar la eficiencia de sus resultados. [15]
 
 
 - Dispositivo de detección de hemoglobina no invasivo basado en fotopletismografía multiespectral
 
   Autor principal: Zhen Cheng Chen\
   Fecha de publicación: 30 de diciembre de 2023\
-  Resumen: Este dispositivo es una innovación única en el mercado ya que detecta la hemoglobina del paciente mediante fotopletismografía multiespectral, el cual propone una solución no invasiva para evitar  infecciones y dolor al sacar una muestra de sangre convencional. Este dispositivo usa 8 LEDS y, gracias añ diseño 3D se recopila señales de fotopletismografía; creando un modelo de regresión. Entre los prototipos de regresión presentados, el modelo AdaBoost tuvo el mejor rendimiento con un error absoluto de 2,67 g/L. [15]
+  Resumen: Este dispositivo es una innovación única en el mercado ya que detecta la hemoglobina del paciente mediante fotopletismografía multiespectral, el cual propone una solución no invasiva para evitar  infecciones y dolor al sacar una muestra de sangre convencional. Este dispositivo usa 8 LEDS y, gracias añ diseño 3D se recopila señales de fotopletismografía; creando un modelo de regresión. Entre los prototipos de regresión presentados, el modelo AdaBoost tuvo el mejor rendimiento con un error absoluto de 2,67 g/L. [16]
 
 
 - sHEMO: Smartphone Spectroscopy for Blood Hemoglobin Level Monitoring in Smart Anemia-Care
 
   Autores: Sagnik Ghosal, Debanjan Das y Venkanna Udutalapally\
   Fecha de publicación: 14 de diciembre de 2020\
-  Resumen: Se trata de la aplicación SHEMO disponible en los teléfonos inteligentes que utiliza la espectroscopia para analizar una imagen y estimar el nivel de hemoglobina del paciente a partir de la palidez conjuntival del ojo. [16]
+  Resumen: Se trata de la aplicación SHEMO disponible en los teléfonos inteligentes que utiliza la espectroscopia para analizar una imagen y estimar el nivel de hemoglobina del paciente a partir de la palidez conjuntival del ojo. [17]
 
 \
 DIAGRAMA DE ISHIKAWA
@@ -74,7 +74,7 @@ DEFINICIÓN DEL PROBLEMA
 
 Tras lo investigado, se puede establecer que la anemia es un mal endémico que perjudica a 1620 millones de personas a nivel mundial, equivalente al 24,8 % de la población global. Según la Organización Mundial de la Salud (OMS), la anemia afecta más a niños en edad preescolar, el 47% de los casos reportados. Del mismo modo, el Perú no se aleja de esta realidad, de acuerdo con la Encuesta Demográfica y de Salud Familiar (ENDES), en el 2018, el 46,6% de niños menores de 3 años padecía de anemia, para ser más específicos del tipo ferropénica. Esto puede ser generado por desigualdades e inequidades económicas, sociales y culturales, representadas a través de la pobreza, precariedad de la vivienda, higiene deficiente, desconocimiento de una alimentación, saludable, estos aspectos repercuten en su desarrollo integral y vulnera sus derechos.
 
-Por ello, se define como problemática para el proyecto, “La mala distribución y organización, por parte del Estado, en centros de salud retrasan la atención a pacientes con anemia en el país”. Esta problemática se centra principalmente en los sectores rurales, debido a que, la prevalencia de anemia es más frecuente en el área rural (50,9%) que en la zona urbana (40,9%), lo cual ejemplifica las particularidades de esta enfermedad y su relación con los determinantes sociales, donde muchas veces es por la falta de laboratorios especializados, equipo médico o conciencia social que se incrementan estos niveles. [17]
+Por ello, se define como problemática para el proyecto, “La mala distribución y organización, por parte del Estado, en centros de salud retrasan la atención a pacientes con anemia en el país”. Esta problemática se centra principalmente en los sectores rurales, debido a que, la prevalencia de anemia es más frecuente en el área rural (50,9%) que en la zona urbana (40,9%), lo cual ejemplifica las particularidades de esta enfermedad y su relación con los determinantes sociales, donde muchas veces es por la falta de laboratorios especializados, equipo médico o conciencia social que se incrementan estos niveles. [18]
 
 
 \
@@ -93,10 +93,11 @@ BIBLIOGRAFÍA
 - [11] Isaac, “Open Hardware: todo lo que necesitas saber - Profesional Review. https://www.profesionalreview.com/2022/07/16/open-hardware/
 - [12] T. Owaidah et al., «Iron Deficiency and Iron Deficiency Anemia Are Common Epidemiological Conditions in Saudi Arabia: Report of the National Epidemiological Survey», Anemia, vol. 2020, 2020. https://doi.org/10.1155/2020/6642568
 - [13] B. R. Abramowitz, H. Saba, A. Aytaman, D. A. DiLeo, y B. C. Roland, «Diagnostic yield of bidirectional endoscopy for iron deficiency anemia in young patients», BMC Gastroenterol, vol. 24, n.° 1, pp. 269, agosto de 2024. https://doi.org/10.1186/s12876-024-03372-y
-- [14] Appiahene, P., Asare, J. W., Donkoh, E. T., Dimauro, G., & Maglietta, R. (2023). Detection of iron deficiency anemia by medical images: a comparative study of machine learning algorithms. BioData mining, 16(1), 2.
-- [15] J. Zhu et al., “A Non-Invasive hemoglobin detection device based on multispectral photoplethysmography,” Biosensors, vol. 14, n.° 1, pp. 22, diciembre de 2023. https://doi.org/10.3390/bios14010022
-- [16] “SHEMO: Smartphone spectroscopy for blood hemoglobin level monitoring in Smart Anemia-Care,” IEEE Journals & Magazine | IEEE Xplore, Mar. 15, 2021. https://ieeexplore.ieee.org/document/9293134
-- [17] N. M. Hinostroza Robles, “ANEMIA INFANTIL EN EL PERÚ: UN PROBLEMA NO RESUELTO”, Rev. Enfermeria Vanguard., vol. 11, n.° 2, pp. 87–88, febrero de 2024. https://doi.org/10.35563/revan.v11i2.537 
+- [14] Instituto Nacional de Estadística e Informática (INEI), "Encuesta demográfica y de salud familiar ENDES 2021 Nacional y Departamental”. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1838/
+- [15] Appiahene, P., Asare, J. W., Donkoh, E. T., Dimauro, G., & Maglietta, R. (2023). Detection of iron deficiency anemia by medical images: a comparative study of machine learning algorithms. BioData mining, 16(1), 2.
+- [16] J. Zhu et al., “A Non-Invasive hemoglobin detection device based on multispectral photoplethysmography,” Biosensors, vol. 14, n.° 1, pp. 22, diciembre de 2023. https://doi.org/10.3390/bios14010022
+- [17] “SHEMO: Smartphone spectroscopy for blood hemoglobin level monitoring in Smart Anemia-Care,” IEEE Journals & Magazine | IEEE Xplore, Mar. 15, 2021. https://ieeexplore.ieee.org/document/9293134
+- [18] N. M. Hinostroza Robles, “ANEMIA INFANTIL EN EL PERÚ: UN PROBLEMA NO RESUELTO”, Rev. Enfermeria Vanguard., vol. 11, n.° 2, pp. 87–88, febrero de 2024. https://doi.org/10.35563/revan.v11i2.537 
 
 
 
