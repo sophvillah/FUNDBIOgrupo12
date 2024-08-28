@@ -34,9 +34,11 @@ El hardware abierto u open hardware, son aquellos cuyos diseños de dispositivos
 \
 CONTEXTO MUNDIAL
 
-La anemia es una de las principales enfermedades que afecta mundialmente a la población, sobre todo a mujeres y a niños. Existen diferentes tipos de anemia entre las cuales están la anemia por deficiencia de hierro (ADH), por deficiencia de vitamina B12, hemolítica, ferropénica, etc. Sin embargo, la ADH es la que prevalece más en el mundo. De acuerdo con la Organización Mundial de la Salud, se estima que hasta un poco más de la cuarta parte de la población mundial padece de ADH. [12] La ADH puede ser debido a una ausencia en la dieta de hierro por una mala absorción del sistema gastrointestinal. [13] 
+La anemia es una de las principales enfermedades que afecta mundialmente a la población, sobre todo a mujeres y a niños. Esta enfermedad es causada por la baja concentración de hemoglobina que puede deberse a varios factores. Existen diferentes tipos de anemia entre las cuales están la anemia por deficiencia de hierro (ADH), por deficiencia de vitamina B12, hemolítica, ferropénica, etc. Sin embargo, la ADH es la que prevalece más en el mundo. De acuerdo con la Organización Mundial de la Salud, se estima que hasta un poco más de la cuarta parte de la población mundial padece de ADH. [12] La ADH puede ser debido a una ausencia en la dieta de hierro por una mala absorción del sistema gastrointestinal. [13] 
 
-En Perú, hasta el 2021, casi el 20% de mujeres entre 15 y 49 años padecieron anemia. En el caso de los niños de 6 a 35 meses fue de un 38.8%. Además, del total de todos los casos registrados, se encontró que la mayor parte prevalece en zona rural (48.7%) de acuerdo con estadísticas del INEI. 
+En Perú, hasta el 2021, casi el 20% de mujeres entre 15 y 49 años padecieron anemia. En el caso de los niños de 6 a 35 meses fue de un 38.8%. Además, del total de todos los casos registrados, se encontró que la mayor parte prevalece en zona rural (48.7%) que la de urbana (35.3%) de acuerdo con estadísticas del INEI. 
+
+En Perú, la técnica que se usa regularmente para realizar la detección de anemia es el sistema HemoCue. Este consiste en un sistema portàtil que analiza la sangre obtenida mediante un punzón en el dedo, este sistema funciona mediante un fotómetro en la cabecera del paciente. Sin embargo, es difícil adquirir estos equipos si se desea llevar a zonas rurales, el precio de estos oscila entre S/.1500 a S/.2000 por lo que es complicado si se desea adquirir en un hospital o en una posta en una zona rural. 
 
 \
 ESTADO DEL ARTE
@@ -65,6 +67,7 @@ ESTADO DEL ARTE
 DIAGRAMA DE ISHIKAWA
 
 ![Diagrama de Ishikawa](https://github.com/user-attachments/assets/5c95f92d-1c70-4063-8f61-f7faaefc0071)
+P. J. Garcia, “Plan Nacional para la REDUCCIÓN Y CONTROL DE LA ANEMIA Materno Infantil y la Desnutrición Crónica Infantil en el Perú: 2017-2021”, MINSA, Lima, N° 249-2017, abril de 2017. Adaptado de: https://bvs.minsa.gob.pe/local/MINSA/4189.pdf 
 
 \
 DEFINICIÓN DEL PROBLEMA
@@ -85,8 +88,8 @@ BIBLIOGRAFÍA
 - [6] Chavez, B., & Bolivar, V. (2021). Detección de anemia en el mercado nuevo los pozos en personas de 20 a 60 años del departamento de Santa Cruz de la Sierra, de marzo a agosto del 2020. Universidad-Ciencia-&-Sociedad, 22(2), 19-24.
 - [7] Anti-topoisomerasa, I. Análisis de sangre y orina.
 - [8] Iliana, V. C., Yohani, G. M., Yelenies, M. D. T., Orlando, P. A., Hibo Rosilver, M. M., & Estela Virgen, M. S. (2023, April). Impacto del programa de prevención de anemia por hematíes falciformes en Granma. 1987-2021. In Congreso.
-- [9]
-- [10]
+- [9] J. M. Valero, M. J. Cazorla, and E. S. García, "Measuring the impact of e-learning on engineering students' performance: Evidence from a Spanish University," Computers & Education, vol. 60, no. 1, pp. 145-156, Jan. 2013. Available: https://www.sciencedirect.com/science/article/pii/S0213005X12000547.
+- [10] 1] J. M. Alonso-Iñigo, "None invasive and minimally invasive hemodynamic monitoring in critically ill patients in the emergency department," *ResearchGate*, 2015. https://www.researchgate.net/profile/Jose-M-Alonso-Inigo/publication/292477128_None_invasive_and_minimally_invasive_hemodynamic_monitoring_in_critically_ill_patients_in_the_emergency_department/links/5fa69d4a299bf10f732cbefe/None-invasive-and-minimally-invasive-hemodynamic-monitoring-in-critically-ill-patients-in-the-emergency-department.pdf.
 - [11] Isaac, “Open Hardware: todo lo que necesitas saber - Profesional Review. https://www.profesionalreview.com/2022/07/16/open-hardware/
 - [12] T. Owaidah et al., «Iron Deficiency and Iron Deficiency Anemia Are Common Epidemiological Conditions in Saudi Arabia: Report of the National Epidemiological Survey», Anemia, vol. 2020, 2020. https://doi.org/10.1155/2020/6642568
 - [13] B. R. Abramowitz, H. Saba, A. Aytaman, D. A. DiLeo, y B. C. Roland, «Diagnostic yield of bidirectional endoscopy for iron deficiency anemia in young patients», BMC Gastroenterol, vol. 24, n.° 1, pp. 269, agosto de 2024. https://doi.org/10.1186/s12876-024-03372-y
