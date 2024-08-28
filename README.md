@@ -14,10 +14,10 @@ INTEGRANTES:
 PRESENTACIONES:
 - 
 1. Vásquez Durand, Sebastián Giosue \
-   Alumna de Ingeniería Biomédica de 4to ciclo, con interés en la rama de .
+   Alumno de Ingeniería Biomédica de 4to ciclo, con interés en la rama de Señales e Imágenes, e Ingeniería de Tejidos. 
 
-   Coordinador General
-   Encargado de 
+   Coordinador General \
+   Encargado de la comunicación entre el asesor y el grupo. Coordinador de futuras reuniones y/o avances que se tengan que realizar durante el desarrollo del proyecto. Además, coordinar con los otros compañeros encargados de los otros roles para un trabajo efectivo. 
 
 ![PHOTO-2024-08-27-16-57-10](https://github.com/user-attachments/assets/b6fc3c71-6b8b-4e68-baf0-7d387174ec88) 
 
@@ -33,7 +33,7 @@ PRESENTACIONES:
    Alumno de Ingeniería Biomédica de 4to ciclo, con interés en la rama de Biomecánica y Rehabilitación.
 
    Diseño Electrónico \
-   Encargado del diseño y la construcción de los prototipos electrónicos, tomando conceptos básicos de electrónica y utilizó Tinkercad para elegir componentes electrónicos del prototipo.
+   Encargado del diseño y la construcción de los prototipos electrónicos, tomando conceptos básicos de electrónica y utilizo Tinkercad para elegir componentes electrónicos del prototipo.
 
 ![PHOTO-2024-08-27-13-54-12](https://github.com/user-attachments/assets/01fa5ccb-cf52-4ee2-a38a-9b53aed13640)
 
