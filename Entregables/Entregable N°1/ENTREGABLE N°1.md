@@ -20,7 +20,7 @@ PALABRAS CLAVE
 - Anemia hemolítica: Anemia provocada por la destrucción prematura de glóbulos rojos. [3]
 Anemia aplásica: Trastorno en el que la médula ósea no produce suficientes células sanguíneas nuevas. [4]
 - Anemia ferropénica: Anemia causada por la deficiencia de hierro. [5]
-Detección de anemia: Procesos para identificar la detección de anemia a través de diferentes pruebas y métodos diagnósticos. [6]
+- Detección de anemia: Procesos para identificar la detección de anemia a través de diferentes pruebas y métodos diagnósticos. [6]
 - Análisis de sangre: Examen de muestras de sangre para evaluar parámetros como niveles de hemoglobina y glóbulos rojos. [7]
 - Medición de hematíes: Evaluación del número de glóbulos rojos en la sangre. [8]
 - Espectrometría: Técnica analítica utilizada en la medición de especies químicas presentes en una solución. [9]
