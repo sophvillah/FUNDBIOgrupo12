@@ -34,11 +34,16 @@ El hardware abierto u open hardware, son aquellos cuyos diseños de dispositivos
 \
 CONTEXTO MUNDIAL
 
-La anemia es una de las principales enfermedades que afecta mundialmente a la población, sobre todo a mujeres y a niños. Esta enfermedad es causada por la baja concentración de hemoglobina que puede deberse a varios factores. Existen diferentes tipos de anemia entre las cuales están la anemia por deficiencia de hierro (ADH), por deficiencia de vitamina B12, hemolítica, ferropénica, etc. Sin embargo, la ADH es la que prevalece más en el mundo. De acuerdo con la Organización Mundial de la Salud, se estima que hasta un poco más de la cuarta parte de la población mundial padece de ADH. [12] La ADH puede ser debido a una ausencia en la dieta de hierro por una mala absorción del sistema gastrointestinal. [13] 
+La investigación es fundamental para el desarrollo de los países. A mayor inversión en investigación, mayor es el crecimiento del país. Lamentablemente en el Perú no se invierte lo suficiente. De acuerdo con el primer y más reiente censo nacional realizado en el 2016 por el Consejo Nacional de Ciencia,Tecnología e innovación Tecnológica (Concytec) se invirtió 517.5 millones de soles en centros de investigación de innovación y desarrollo lo que representa tan solo el 0.08% del PBI a compración de otros países como Estados Unidos que invierten en I+D 2.74% [https://cdn.www.gob.pe/uploads/document/file/1426002/libro_censo_nacional.pdf.pdf?v=1604602075].
+El siguiente cuadro muestra la distribución de lo invertido en los años 2014 y 2015. 
 
-En Perú, hasta el 2021, casi el 20% de mujeres entre 15 y 49 años padecieron anemia. En el caso de los niños de 6 a 35 meses fue de un 38.8%. Además, del total de todos los casos registrados, se encontró que la mayor parte prevalece en zona rural (48.7%) que la de urbana (35.3%) de acuerdo con estadísticas del INEI. [14]
 
-En Perú, la técnica que se usa regularmente para realizar la detección de anemia es el sistema HemoCue. Este consiste en un sistema portàtil que analiza la sangre obtenida mediante un punzón en el dedo, este sistema funciona mediante un fotómetro en la cabecera del paciente. Sin embargo, es difícil adquirir estos equipos si se desea llevar a zonas rurales, el precio de estos oscila entre S/.1500 a S/.2000 por lo que es complicado si se desea adquirir en un hospital o en una posta en una zona rural. 
+
+
+
+Se puede observar que en ambos años se invirtió menos del 16% en universidades públicas. El poco apoyo que reciben las universidades dificulta la investigación y enseñanza para los jóvenes del país. Además, 
+
+
 
 \
 ESTADO DEL ARTE
