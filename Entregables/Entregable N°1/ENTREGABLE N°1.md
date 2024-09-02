@@ -41,7 +41,21 @@ El siguiente cuadro muestra la distribución de lo invertido en los años 2014 y
 
 
 
-Se puede observar que en ambos años se invirtió menos del 16% en universidades públicas. El poco apoyo que reciben las universidades dificulta la investigación y enseñanza para los jóvenes del país. Además, 
+Se puede observar que en ambos años se invirtió menos del 16% en universidades públicas. El poco apoyo que reciben las universidades dificulta la investigación y enseñanza para los jóvenes del país.
+En este otro cuadro se muestra el tipo de gasto utilizado durante el 2014 y 2015. 
+
+
+
+
+Menos del 16% se destina a equipos e instrumentos para I+D.
+Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en las universidades públicas, debido a la falta de instrumentos y equipos adecuados para llevar a cabo una investigación efectiva.
+
+
+
+
+
+
+
 
 
 
