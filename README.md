@@ -1,3 +1,7 @@
+
+<img width="3000" alt="Captura de pantalla 2024-09-03 a la(s) 01 25 28" src="https://github.com/user-attachments/assets/73420883-e5ea-4e1e-8d2b-be203207161e">
+
+
 # FUNDAMENTOS DE BIODISEÑO
 
 ¡Bienvenidos a nuestro proyecto! A continuación, presentamos los datos del curso y a los integrantes de nuestro equipo. Cada uno aporta habilidades únicas que nos ayudan a alcanzar los objetivos propuestos para este proyecto.
@@ -10,7 +14,7 @@
 
 ## Integrantes del Equipo
 
-| ![Foto de Sebastían](https://github.com/user-attachments/assets/b6fc3c71-6b8b-4e68-baf0-7d387174ec88) | **Vásquez Durand, Sebastián Giosue** <br> Alumno de Ingeniería Biomédica de 4to ciclo, con interés en la rama de Señales e Imágenes, e Ingeniería de Tejidos.<br><br>**Coordinador General**<br> Encargado de la comunicación entre el asesor y el grupo. Coordinador de futuras reuniones y/o avances que se tengan que realizar durante el desarrollo del proyecto. <br><br>**Código de Alumno:** 76906294 | 
+| ![Foto de Sebastían](https://github.com/user-attachments/assets/b6fc3c71-6b8b-4e68-baf0-7d387174ec88) | | 
 |:---------------------------------------------------:|:---------------------------------------------------------:|
 | ![Foto de Sebastían](https://github.com/user-attachments/assets/b6fc3c71-6b8b-4e68-baf0-7d387174ec88) | **Vásquez Durand, Sebastián Giosue** <br> Alumno de Ingeniería Biomédica de 4to ciclo, con interés en la rama de Señales e Imágenes, e Ingeniería de Tejidos.<br><br>**Coordinador General**<br> Encargado de la comunicación entre el asesor y el grupo. Coordinador de futuras reuniones y/o avances que se tengan que realizar durante el desarrollo del proyecto. <br><br>**Código de Alumno:** 76906294 | 
 | ![Foto de Sophia](https://github.com/user-attachments/assets/09edb07c-1aff-4489-be5b-84c49aef11c9)  | **Villaseca Ho, Sophia Mercedes**<br>Alumna de Ingeniería Biomédica de 4to ciclo, con interés en la rama de Señales e Imágenes.<br><br>**Manufactura Digital y Actualización del GitHub**<br> Encargada de la manufactura digital en el proyecto, superviso y gestiono la implementación de tecnologías de fabricación digital, garantizando la precisión y calidad en la producción.<br><br>**Código de Alumno:** 75746120 |
