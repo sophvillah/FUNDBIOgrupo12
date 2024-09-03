@@ -1,23 +1,19 @@
-ENTREGABLE N°1
+### ENTREGABLE N°1
+# LA FALTA DE RECURSOS CIENTÍFICOS EN EL PERÚ ATRASA EL AVANCE TECNOLÓGICO
 
-
-LA FALTA DE RECURSOS CIENTÍFICOS EN EL PERÚ ATRASA EL AVANCE TECNOLÓGICO
-- 
-
-\
-OBJETIVO
+### OBJETIVO
 
 El principal objetivo de este entregable es profundizar el contexto mundial y nacional de la problemática escogida, la limitada disponibilidad y acceso a espectrómetros en el Perú. Para ello, se han consultado diversos artículos científicos, estado del arte científico, que han permitido establecer un panorama más claro para analizar la implementación de un Open Hardware como solución.
 
-\
+### PALABRAS CLAVE
 
-\
-DESARROLLO DE LA TEMÁTICA
+LKAHDLKHALKDHAPODHWUIBCUIWBDCIOWBNICOWNOINCOP
+
+### DESARROLLO DE LA TEMÁTICA
 
 El hardware abierto u open hardware, son aquellos cuyos diseños de dispositivos electrónicos son liberados de manera que se pueda estudiar, modificar, fabricar y distribuir el dispositivo de manera libre. En síntesis, se trata de tecnología a la que cualquiera puede acceder y compartir sin restricciones, una suerte de software de código abierto. Con el fin de calificar como open hardware, existen ciertos requisitos que deben cumplirse. En primer lugar, el proyecto debe mostrar toda la documentación que permita a otras personas comprender y trabajar con el diseño, sea este físico o virtual. Adicionalmente, debe quedar claro qué aspecto del diseño está siendo liberado. Si el hardware involucra software, este debe ser de código abierto. La licencia con la cual el hardware será compartido debe permitir modificaciones y distribución sin compartir regalías, aunque sí puede requerir atribuciones. No debe haber discriminación de clase y derechos de redistribución para aquellos que compartan el hardware. [11]
 
-\
-CONTEXTO MUNDIAL
+### CONTEXTO MUNDIAL Y NACIONAL
 
 La investigación es fundamental para el desarrollo de los países. A mayor inversión en investigación, mayor es el crecimiento del país. Lamentablemente en el Perú no se invierte lo suficiente. De acuerdo con el primer y más reiente censo nacional realizado en el 2016 por el Consejo Nacional de Ciencia,Tecnología e innovación Tecnológica (Concytec) se invirtió 517.5 millones de soles en centros de investigación de innovación y desarrollo lo que representa tan solo el 0.08% del PBI a compración de otros países como Estados Unidos que invierten en I+D 2.74% [https://cdn.www.gob.pe/uploads/document/file/1426002/libro_censo_nacional.pdf.pdf?v=1604602075].
 El siguiente cuadro muestra la distribución de lo invertido en los años 2014 y 2015. 
@@ -32,17 +28,7 @@ En este otro cuadro se muestra el tipo de gasto utilizado durante el 2014 y 2015
 Menos del 16% se destina a equipos e instrumentos para I+D.
 Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en las universidades públicas, debido a la falta de instrumentos y equipos adecuados para llevar a cabo una investigación efectiva.
 
-
-
-
-
-
-
-
-
-
-\
-ESTADO DEL ARTE
+### ESTADO DEL ARTE CIENTÍFICO
 
 - Detection of iron deficiency anemia by medical images: A comparative study of machine learning algorithms
 
@@ -64,23 +50,19 @@ ESTADO DEL ARTE
   Fecha de publicación: 14 de diciembre de 2020\
   Resumen: Se trata de la aplicación SHEMO disponible en los teléfonos inteligentes que utiliza la espectroscopia para analizar una imagen y estimar el nivel de hemoglobina del paciente a partir de la palidez conjuntival del ojo. [17]
 
-\
-DIAGRAMA DE ISHIKAWA
+### DIAGRAMA DE ISHIKAWA
 
 ![Gráfico Diagrama de Ishikawa Profesional Azul](https://github.com/user-attachments/assets/5f56261a-5d11-46ca-8975-562a4fea6033)
 
-\
-DEFINICIÓN DEL PROBLEMA
+### DEFINICIÓN DEL PROBLEMA
 
 La limitada disponibilidad y acceso a espectrómetros en el Perú es una problemática que dificulta el proceso de enseñanza-aprendizaje del análisis químico. Esto sucede principalmente debido al alto costo de la instrumentación comercial disponible.
 
-Pese a que en los últimos años, el Perú ha registrado un incremento progresivo en la inversión de material tecnológico aún no es suficiente, destinando solo el 0,13% de su PBI al sector de Ciencia, Tecnología e Innovación (CTI). 
-
-Según la Red de Indicadores de Ciencia y Tecnología (RICYT), el Perú se encuentra entre los países que menos invierten en Investigación y Desarrollo en la región, a diferencia de países como Brasil o Chile.
+Pese a que en los últimos años, el Perú ha registrado un incremento progresivo en la inversión de material tecnológico aún no es suficiente, destinando solo el 0,13% de su PBI al sector de Ciencia, Tecnología e Innovación (CTI). Según la Red de Indicadores de Ciencia y Tecnología (RICYT), el Perú se encuentra entre los países que menos invierten en Investigación y Desarrollo en la región, a diferencia de países como Brasil o Chile.
 
 
-\
-BIBLIOGRAFÍA
+
+### BIBLIOGRAFÍA
 - [1] Hodges, V. M., Rainey, S., Lappin, T. R., & Maxwell, A. P. (2007). Pathophysiology of anemia and erythrocytosis. Critical reviews in oncology/hematology, 64(2), 139-158.
 
 - [2] O'Leary, F., & Samman, S. (2010). Vitamin B12 in health and disease. Nutrients, 2(3), 299–316. https://doi.org/10.3390/nu2030299 
