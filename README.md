@@ -66,4 +66,30 @@ PRESENTACIONES:
 
 
 
+# Equipo de Desarrollo
+
+¡Bienvenidos a nuestro proyecto! A continuación, presentamos a los seis integrantes de nuestro equipo. Cada uno aporta habilidades únicas que nos ayudan a alcanzar nuestros objetivos.
+
+## Integrantes del Equipo
+
+| ![Foto de María](https://via.placeholder.com/150) | **María González**<br>*Líder de Proyecto*<br>Experta en gestión de proyectos y coordinación de equipos. |
+|:---------------------------------------------------:|:---------------------------------------------------------:|
+| ![Foto de Juan](https://via.placeholder.com/150)  | **Juan Pérez**<br>*Desarrollador Backend*<br>Especialista en desarrollo de sistemas escalables y bases de datos. |
+| ![Foto de Ana](https://via.placeholder.com/150)   | **Ana Martínez**<br>*Desarrolladora Frontend*<br>Creativa en diseño UI/UX y desarrollo web responsivo. |
+| ![Foto de Luis](https://via.placeholder.com/150)  | **Luis Rodríguez**<br>*Ingeniero de Datos*<br>Experto en análisis de datos y algoritmos de machine learning. |
+| ![Foto de Laura](https://via.placeholder.com/150) | **Laura Torres**<br>*Especialista en Seguridad*<br>Encargada de la protección de datos y auditorías de seguridad. |
+| ![Foto de Pablo](https://via.placeholder.com/150) | **Pablo Fernández**<br>*Consultor de Estrategia*<br>Analista estratégico con enfoque en optimización de procesos. |
+
+## Contáctanos
+
+Estamos aquí para colaborar y resolver cualquier duda que puedas tener. No dudes en ponerte en contacto con nosotros a través de los siguientes canales:
+
+- **Correo Electrónico:** equipo@ejemplo.com
+- **LinkedIn:** [Enlace a LinkedIn](https://linkedin.com/company/ejemplo)
+- **Twitter:** [@equipoEjemplo](https://twitter.com/equipoEjemplo)
+
+---
+
+**¡Gracias por tu interés en nuestro proyecto!**
+
 
