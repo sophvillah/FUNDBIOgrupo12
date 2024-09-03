@@ -1,28 +1,15 @@
 ENTREGABLE N°1
 
 
-ANEMIA: UNO DE LOS PRINCIPALES PROBLEMAS DE DESNUTRICIÓN CRÓNICA EN EL PERÚ
+LA FALTA DE RECURSOS CIENTÍFICOS EN EL PERÚ ATRASA EL AVANCE TECNOLÓGICO
 - 
 
 \
 OBJETIVO
 
-El principal objetivo de este entregable es profundizar el contexto mundial y nacional de la problemática escogida, la crisis nutricional que ha generado la anemia. Para ello, se han consultado diversos artículos científicos, estado del arte, que han permitido establecer un panorama más claro para analizar la implementación de un Open Hardware que pueda solucionar uno de los principales problemas de desnutrición del Perú, la anemia. 
+El principal objetivo de este entregable es profundizar el contexto mundial y nacional de la problemática escogida, la limitada disponibilidad y acceso a espectrómetros en el Perú. Para ello, se han consultado diversos artículos científicos, estado del arte científico, que han permitido establecer un panorama más claro para analizar la implementación de un Open Hardware como solución.
 
 \
-PALABRAS CLAVE
-
-- Anemia: Trastorno sanguíneo que se caracteriza por la disminución en la cantidad de hemoglobina y/o glóbulos rojos, afectando la capacidad del cuerpo de transportar oxígeno. [1]
-
-- Anemia por vitamina B12: Tipo de anemia que ocurre debido a la deficiencia de vitamina B12, la cual es esencial para una función neurológica adecuada. [2]
-- Anemia hemolítica: Anemia provocada por la destrucción prematura de glóbulos rojos. [3]
-Anemia aplásica: Trastorno en el que la médula ósea no produce suficientes células sanguíneas nuevas. [4]
-- Anemia ferropénica: Anemia causada por la deficiencia de hierro. [5]
-- Detección de anemia: Procesos para identificar la detección de anemia a través de diferentes pruebas y métodos diagnósticos. [6]
-- Análisis de sangre: Examen de muestras de sangre para evaluar parámetros como niveles de hemoglobina y glóbulos rojos. [7]
-- Medición de hematíes: Evaluación del número de glóbulos rojos en la sangre. [8]
-- Espectrometría: Técnica analítica utilizada en la medición de especies químicas presentes en una solución. [9]
-- Fotoespectrometría: Técnica analítica utilizada para calcular la concentración de una sustancia en una muestra. [10]
 
 \
 DESARROLLO DE LA TEMÁTICA
