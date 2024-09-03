@@ -10,7 +10,7 @@
 
 | **Curso**            | **Horario**                                            | **Grupo** | **Coordinador** | **Asesores**        |
 |----------------------|------------------------------------------------------------|---------------------|---------------------------|-----------------------|
-| Fundamentos de Biodiseño | B402 | Grupo 12 | Juan Manuel Zuñiga Maman    | Ing. Renzo Chan, Ing. Andoni Molina, Lic. Alonso Cáceres y Lic. Keren Espinoza      |
+| Fundamentos de Biodiseño | B402 | Grupo 12 | Juan Manuel Zuñiga Mamani   | Ing. Renzo Chan, Ing. Andoni Molina, Lic. Alonso Cáceres y Lic. Keren Espinoza      |
 
 ## Integrantes del Equipo
 
