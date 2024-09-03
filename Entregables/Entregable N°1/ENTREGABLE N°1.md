@@ -3,8 +3,6 @@ ENTREGABLE N°1
 
 ANEMIA: UNO DE LOS PRINCIPALES PROBLEMAS DE DESNUTRICIÓN CRÓNICA EN EL PERÚ
 - 
-![image](https://github.com/user-attachments/assets/7f46e0c9-b707-4b4f-a37c-08714b406ca2)
-Figura 1: Anemia en Áncash. Fuente: Instituto Peruano de Economía. (15 de julio de 2018). https://www.ipe.org.pe/portal/anemia-en-ancash/ 
 
 \
 OBJETIVO
@@ -37,15 +35,12 @@ CONTEXTO MUNDIAL
 La investigación es fundamental para el desarrollo de los países. A mayor inversión en investigación, mayor es el crecimiento del país. Lamentablemente en el Perú no se invierte lo suficiente. De acuerdo con el primer y más reiente censo nacional realizado en el 2016 por el Consejo Nacional de Ciencia,Tecnología e innovación Tecnológica (Concytec) se invirtió 517.5 millones de soles en centros de investigación de innovación y desarrollo lo que representa tan solo el 0.08% del PBI a compración de otros países como Estados Unidos que invierten en I+D 2.74% [https://cdn.www.gob.pe/uploads/document/file/1426002/libro_censo_nacional.pdf.pdf?v=1604602075].
 El siguiente cuadro muestra la distribución de lo invertido en los años 2014 y 2015. 
 
-
-
-
+![PHOTO-2024-09-02-20-25-06](https://github.com/user-attachments/assets/4dff6e93-cc9c-4a92-82fd-b6663920e3a1)
 
 Se puede observar que en ambos años se invirtió menos del 16% en universidades públicas. El poco apoyo que reciben las universidades dificulta la investigación y enseñanza para los jóvenes del país.
 En este otro cuadro se muestra el tipo de gasto utilizado durante el 2014 y 2015. 
 
-
-
+![PHOTO-2024-09-02-20-25-06 2](https://github.com/user-attachments/assets/9c5fdd63-1ee9-46df-b85b-23df2316acd4)
 
 Menos del 16% se destina a equipos e instrumentos para I+D.
 Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en las universidades públicas, debido a la falta de instrumentos y equipos adecuados para llevar a cabo una investigación efectiva.
@@ -85,15 +80,16 @@ ESTADO DEL ARTE
 \
 DIAGRAMA DE ISHIKAWA
 
-![Diagrama de Ishikawa](https://github.com/user-attachments/assets/5c95f92d-1c70-4063-8f61-f7faaefc0071)
-P. J. Garcia, “Plan Nacional para la REDUCCIÓN Y CONTROL DE LA ANEMIA Materno Infantil y la Desnutrición Crónica Infantil en el Perú: 2017-2021”, MINSA, Lima, N° 249-2017, abril de 2017. Adaptado de: https://bvs.minsa.gob.pe/local/MINSA/4189.pdf 
+![Gráfico Diagrama de Ishikawa Profesional Azul](https://github.com/user-attachments/assets/5f56261a-5d11-46ca-8975-562a4fea6033)
 
 \
 DEFINICIÓN DEL PROBLEMA
 
-Tras lo investigado, se puede establecer que la anemia es un mal endémico que perjudica a 1620 millones de personas a nivel mundial, equivalente al 24,8 % de la población global. Según la Organización Mundial de la Salud (OMS), la anemia afecta más a niños en edad preescolar, el 47% de los casos reportados. Del mismo modo, el Perú no se aleja de esta realidad, de acuerdo con la Encuesta Demográfica y de Salud Familiar (ENDES), en el 2018, el 46,6% de niños menores de 3 años padecía de anemia, para ser más específicos del tipo ferropénica. Esto puede ser generado por desigualdades e inequidades económicas, sociales y culturales, representadas a través de la pobreza, precariedad de la vivienda, higiene deficiente, desconocimiento de una alimentación, saludable, estos aspectos repercuten en su desarrollo integral y vulnera sus derechos.
+La limitada disponibilidad y acceso a espectrómetros en el Perú es una problemática que dificulta el proceso de enseñanza-aprendizaje del análisis químico. Esto sucede principalmente debido al alto costo de la instrumentación comercial disponible.
 
-Por ello, se define como problemática para el proyecto, “La mala distribución y organización, por parte del Estado, en centros de salud retrasan la atención a pacientes con anemia en el país”. Esta problemática se centra principalmente en los sectores rurales, debido a que, la prevalencia de anemia es más frecuente en el área rural (50,9%) que en la zona urbana (40,9%), lo cual ejemplifica las particularidades de esta enfermedad y su relación con los determinantes sociales, donde muchas veces es por la falta de laboratorios especializados, equipo médico o conciencia social que se incrementan estos niveles. [18]
+Pese a que en los últimos años, el Perú ha registrado un incremento progresivo en la inversión de material tecnológico aún no es suficiente, destinando solo el 0,13% de su PBI al sector de Ciencia, Tecnología e Innovación (CTI). 
+
+Según la Red de Indicadores de Ciencia y Tecnología (RICYT), el Perú se encuentra entre los países que menos invierten en Investigación y Desarrollo en la región, a diferencia de países como Brasil o Chile.
 
 
 \
