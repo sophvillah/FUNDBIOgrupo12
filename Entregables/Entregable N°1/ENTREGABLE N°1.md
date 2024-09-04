@@ -32,23 +32,29 @@ Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en
 
 - #### Espectrofotómetro inalámbrico portátil de código abierto y bajo coste para mediciones rápidas y fiables
 
-  #### Autor principal: Peter Appiahene
-  #### Fecha de publicación: 24 de enero de 2023
-  #### Resumen: <El artículo describe el desarrollo de un espectrofotómetro portátil inalámbrico de bajo coste, basado en tecnología de código abierto. Este dispositivo emplea diodos emisores de luz (LEDs) como fuente de luz y un detector de fotodiodos para realizar mediciones espectrales. La conectividad inalámbrica facilita la transmisión de datos en tiempo real a dispositivos móviles o computadoras para su análisis. El espectrofotómetro se calibra utilizando patrones de referencia conocidos, garantizando la precisión en la cuantificación de concentraciones de analitos en diferentes muestras. Este dispositivo es especialmente útil en aplicaciones de campo donde se requiere movilidad y acceso inmediato a datos espectrales, como en la monitorización ambiental o análisis de calidad de agua.> [15]
+  **Autor principal**: Katrina Laganovska\
+  **Fecha de publicación**: abril de 2020\
+  **Resumen**: El artículo describe el desarrollo de un espectrofotómetro portátil inalámbrico de bajo coste, basado en tecnología de código abierto. Este dispositivo emplea diodos emisores de luz (LEDs) como fuente de luz y un detector de fotodiodos para realizar mediciones espectrales. La conectividad inalámbrica facilita la transmisión de datos en tiempo real a dispositivos móviles o computadoras para su análisis. El espectrofotómetro se calibra utilizando patrones de referencia conocidos, garantizando la precisión en la cuantificación de concentraciones de analitos en diferentes muestras. Este dispositivo es especialmente útil en aplicaciones de campo donde se requiere movilidad y acceso inmediato a datos espectrales, como en la monitorización ambiental o análisis de calidad de agua [].
 
 
-- Dispositivo de detección de hemoglobina no invasivo basado en fotopletismografía multiespectral
+- #### Dispositivo de detección de hemoglobina no invasivo basado en fotopletismografía multiespectral
 
-  Autor principal: Zhen Cheng Chen\
-  Fecha de publicación: 30 de diciembre de 2023\
-  Resumen: Este dispositivo es una innovación única en el mercado ya que detecta la hemoglobina del paciente mediante fotopletismografía multiespectral, el cual propone una solución no invasiva para evitar  infecciones y dolor al sacar una muestra de sangre convencional. Este dispositivo usa 8 LEDS y, gracias añ diseño 3D se recopila señales de fotopletismografía; creando un modelo de regresión. Entre los prototipos de regresión presentados, el modelo AdaBoost tuvo el mejor rendimiento con un error absoluto de 2,67 g/L. [16]
+  **Autor principal**: Michael W. Prairie\
+  **Fecha de publicación**: 29 de enero de 2020\
+  **Resumen**: Este estudio presenta un espectrofotómetro basado en LEDs diseñado para la cuantificación precisa de contaminantes en agua potable, particularmente en entornos con recursos limitados. El espectrofotómetro utiliza un arreglo de LEDs con diferentes longitudes de onda, que permiten la detección selectiva de diversos analitos a través de la absorción de luz en muestras líquidas. La calibración del dispositivo se realiza mediante soluciones estándar, asegurando una linealidad en la respuesta del detector. Además, se destaca la simplicidad del diseño, lo que facilita su construcción y mantenimiento, convirtiéndolo en una herramienta ideal para el monitoreo de calidad de agua en comunidades rurales o zonas con acceso limitado a laboratorios [].
 
 
-- sHEMO: Smartphone Spectroscopy for Blood Hemoglobin Level Monitoring in Smart Anemia-Care
+- #### Comprobación forense del método de espectrofotometría de absorción atómica para determinar plomo (Pb) y antimonio (Sb) impregnados en la mano después de disparar un arma de fuego
 
-  Autores: Sagnik Ghosal, Debanjan Das y Venkanna Udutalapally\
-  Fecha de publicación: 14 de diciembre de 2020\
-  Resumen: Se trata de la aplicación SHEMO disponible en los teléfonos inteligentes que utiliza la espectroscopia para analizar una imagen y estimar el nivel de hemoglobina del paciente a partir de la palidez conjuntival del ojo. [17]
+  **Autor principal**: Robertha Reina Alminate\
+  **Fecha de publicación**: 2014\
+  **Resumen**:Este artículo explora la aplicación de la espectrofotometría de absorción atómica (AAS) en la detección de residuos de disparo, específicamente plomo (Pb) y antimonio (Sb), en muestras recolectadas de las manos de individuos que han disparado un arma de fuego. El método AAS se basa en la atomización de la muestra y la medición de la absorción de luz en longitudes de onda específicas correspondientes a los metales de interés. La sensibilidad del espectrofotómetro permite la detección de trazas de estos metales, proporcionando evidencia clave en investigaciones forenses. El estudio valida la efectividad del método mediante pruebas comparativas con técnicas tradicionales, demostrando una alta precisión y reproducibilidad en la detección de residuos de disparo [].
+
+- #### Validación de métodos analíticos para la determinación de boro, zinc y potasio por espectrofotometría en muestras de agua en el Centro de Investigaciones y Control Ambiental (CICAM)
+
+  **Autor principal**: Diana Taipe Echeverría\
+  **Fecha de publicación**: 13 de junio de 2014\
+  **Resumen**:Este informe describe la validación de métodos espectrofotométricos para la determinación de boro, zinc y potasio en muestras de agua. Utilizando un espectrofotómetro UV-Vis, se ajustaron los parámetros analíticos para maximizar la sensibilidad y especificidad en la detección de estos elementos. La metodología incluyó la preparación de curvas de calibración para cada elemento, la realización de pruebas de recuperación en muestras fortificadas, y la evaluación de la precisión intermedia mediante análisis repetidos en diferentes días. Los resultados confirmaron la idoneidad del método para su aplicación en el monitoreo rutinario de calidad de agua, ofreciendo una herramienta robusta y confiable para el análisis de estos elementos en muestras ambientales [].
 
 ### DIAGRAMA DE ISHIKAWA
 
