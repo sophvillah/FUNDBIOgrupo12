@@ -30,7 +30,8 @@ Se puede observar que en ambos años se invirtió menos del 16% en universidades
 En este otro cuadro se muestra el tipo de gasto utilizado durante el 2014 y 2015. 
 
 ![PHOTO-2024-09-02-20-25-06 2](https://github.com/user-attachments/assets/9c5fdd63-1ee9-46df-b85b-23df2316acd4)
-Figura 2. Gasto en I+D por tipo de gasto e inversión, 2014-2015 [9].
+
+  Figura 2. Gasto en I+D por tipo de gasto e inversión, 2014-2015 [9].
 
 Menos del 16% se destina a equipos e instrumentos para I+D.
 Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en las universidades públicas, debido a la falta de instrumentos y equipos adecuados para llevar a cabo una investigación efectiva [7].
