@@ -24,14 +24,14 @@ El siguiente cuadro muestra la distribución de lo invertido en los años 2014 y
 
 
 ![PHOTO-2024-09-02-20-25-06](https://github.com/user-attachments/assets/4dff6e93-cc9c-4a92-82fd-b6663920e3a1)
-Figura 1. Gasto en I+D por sector institucional, 2014-2015 [8].
+Figura 1. Gasto en I+D por sector institucional, 2014-2015 [7].
 
 Se puede observar que en ambos años se invirtió menos del 16% en universidades públicas. El poco apoyo que reciben las universidades dificulta la investigación y enseñanza para los jóvenes del país.
 En este otro cuadro se muestra el tipo de gasto utilizado durante el 2014 y 2015. 
 
 ![PHOTO-2024-09-02-20-25-06 2](https://github.com/user-attachments/assets/9c5fdd63-1ee9-46df-b85b-23df2316acd4)
 
-  Figura 2. Gasto en I+D por tipo de gasto e inversión, 2014-2015 [9].
+  Figura 2. Gasto en I+D por tipo de gasto e inversión, 2014-2015 [7].
 
 Menos del 16% se destina a equipos e instrumentos para I+D.
 Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en las universidades públicas, debido a la falta de instrumentos y equipos adecuados para llevar a cabo una investigación efectiva [7].
@@ -77,11 +77,27 @@ Pese a que en los últimos años, el Perú ha registrado un incremento progresiv
 Tras describir esta problemática, se establece que se podría apreciar una mejora importante en la formación académica de los estudiantes el poder construir sus propios instrumentos, por ejemplo, un espectrómetro *LUZ VISIBLE* [12].
 
 ### BIBLIOGRAFÍA
- [1] ..
+[1] R.D. García, "Instrumentos que revolucionaron la química: la historia del espectrofotómetro", 2018.
 
-[2] ..
+[2] R.C. Cabriales Gómez, "Luminiscencia en polímeros semiconductores", Ingenierías, vol. 7, no. 23, pp. 12-16, 2004.
 
-[7] Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC), I Censo Nacional de Investigación y Desarrollo en Centros de Investigación 2016, 2016. https://www.gob.pe/institucion/concytec/informes-publicaciones/1326766-i-censo-nacional-de-investigacion-y-desarrollo-a-centros-de-investigacion-2016
-[8] Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC), I Censo Nacional de Investigación y Desarrollo en Centros de Investigación 2016, p.16, Cuadro N° 1. 
-[9] Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC), I Censo Nacional de Investigación y Desarrollo en Centros de Investigación 2016, p.17, Cuadro N° 2.
+[3] S.E. Aguirre, N.V. Piraneque, y J. Linero-Cueto, "Conentración de metales pesados y calidad físico-química de agua de la Ciénaga Grande de Santa Marta", Revista UDCA Actualidad & Divulgación Científica, vol. 24, no. 1, 2021.
+
+[4] H. Mateos, "Caracterización de sensores y componentes paar la construcción de un arreglo de fotodetectores para dosimetría en radioterapia," Ph.D. dissertation, Universidad Nacional de Cuyo, 2016.
+
+[5] P.A. Segura Delgado and C.J. Mosquera Suárez, "El concepto de pureza: una revisión desde la naturaleza de las ciencias", Educación químia, vol. 32, pp. 14-29, 2012.
+
+[6] Isaac, “Open Hardware: todo lo que necesitas saber - Profesional Review. https://www.profesionalreview.com/2022/07/16/open-hardware/
+
+[7] Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC), I Censo Nacional de Investigación y Desarrollo en Centros de Investigación 2016, pp. 16-17. https://www.gob.pe/institucion/concytec/informes-publicaciones/1326766-i-censo-nacional-de-investigacion-y-desarrollo-a-centros-de-investigacion-2016
+
+[8] 
+
+[9] 
+
+[10] 
+
+[11] 
+
+[12] 
 
