@@ -64,30 +64,13 @@ Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en
 
 La limitada disponibilidad y acceso a espectrómetros en el Perú es una problemática que dificulta el proceso de enseñanza-aprendizaje del análisis químico. Esto sucede principalmente debido al alto costo de la instrumentación comercial disponible.
 
-Pese a que en los últimos años, el Perú ha registrado un incremento progresivo en la inversión de material tecnológico aún no es suficiente, destinando solo el 0,13% de su PBI al sector de Ciencia, Tecnología e Innovación (CTI). Según la Red de Indicadores de Ciencia y Tecnología (RICYT), el Perú se encuentra entre los países que menos invierten en Investigación y Desarrollo en la región, a diferencia de países como Brasil o Chile.
+Pese a que en los últimos años, el Perú ha registrado un incremento progresivo en la inversión de material tecnológico aún no es suficiente, destinando solo el 0,13% de su PBI al sector de Ciencia, Tecnología e Innovación (CTI). Según la Red de Indicadores de Ciencia y Tecnología (RICYT), el Perú se encuentra entre los países que menos invierten en Investigación y Desarrollo en la región, a diferencia de países como Brasil o Chile. Esto afecta principalmente al avance tecnológico que se desarrolla en universidades públicas y privadas, puesto que no permiten obtener resutaldos cuya prescisión y veracidad, demuestren experimentalmente que son adecuados para el propósito del análisis químico instrumental cualitativo y cuantitativo. 
 
+Tras describir esta problemática, se establece que se podría apreciar una mejora importante en la formación académica de los estudiantes el poder construir sus propios instrumentos, por ejemplo, un espectrómetro.
 
+El espectrómetro que se hablará en este proyecto es el ESPECTRÓMETRO DE LUZ VISIBLE.
 
 ### BIBLIOGRAFÍA
-- [1] Hodges, V. M., Rainey, S., Lappin, T. R., & Maxwell, A. P. (2007). Pathophysiology of anemia and erythrocytosis. Critical reviews in oncology/hematology, 64(2), 139-158.
+- [1] ..
 
-- [2] O'Leary, F., & Samman, S. (2010). Vitamin B12 in health and disease. Nutrients, 2(3), 299–316. https://doi.org/10.3390/nu2030299 
-- [3] Hidalgo, J. A. C. (2008). Síndrome de anemia hemolítica. Revista médica de costa rica y centroamerica, 65(583), 85-90.
-- [4] Montaño-Figueroa, E. H., & Gómez-Almaguer, D. (2021). Anemia aplásica. Gaceta médica de México, 157, S52-S54.
-- [5] Baviera, L. B. (2016). Anemia ferropénica. Pediatria Val Serrería II Val, pp 297-308.
-- [6] Chavez, B., & Bolivar, V. (2021). Detección de anemia en el mercado nuevo los pozos en personas de 20 a 60 años del departamento de Santa Cruz de la Sierra, de marzo a agosto del 2020. Universidad-Ciencia-&-Sociedad, 22(2), 19-24.
-- [7] Anti-topoisomerasa, I. Análisis de sangre y orina.
-- [8] Iliana, V. C., Yohani, G. M., Yelenies, M. D. T., Orlando, P. A., Hibo Rosilver, M. M., & Estela Virgen, M. S. (2023, April). Impacto del programa de prevención de anemia por hematíes falciformes en Granma. 1987-2021. In Congreso.
-- [9] J. M. Valero, M. J. Cazorla, and E. S. García, "Measuring the impact of e-learning on engineering students' performance: Evidence from a Spanish University," Computers & Education, vol. 60, no. 1, pp. 145-156, Jan. 2013. Available: https://www.sciencedirect.com/science/article/pii/S0213005X12000547.
-- [10] 1] J. M. Alonso-Iñigo, "None invasive and minimally invasive hemodynamic monitoring in critically ill patients in the emergency department," *ResearchGate*, 2015. https://www.researchgate.net/profile/Jose-M-Alonso-Inigo/publication/292477128_None_invasive_and_minimally_invasive_hemodynamic_monitoring_in_critically_ill_patients_in_the_emergency_department/links/5fa69d4a299bf10f732cbefe/None-invasive-and-minimally-invasive-hemodynamic-monitoring-in-critically-ill-patients-in-the-emergency-department.pdf.
-- [11] Isaac, “Open Hardware: todo lo que necesitas saber - Profesional Review. https://www.profesionalreview.com/2022/07/16/open-hardware/
-- [12] T. Owaidah et al., «Iron Deficiency and Iron Deficiency Anemia Are Common Epidemiological Conditions in Saudi Arabia: Report of the National Epidemiological Survey», Anemia, vol. 2020, 2020. https://doi.org/10.1155/2020/6642568
-- [13] B. R. Abramowitz, H. Saba, A. Aytaman, D. A. DiLeo, y B. C. Roland, «Diagnostic yield of bidirectional endoscopy for iron deficiency anemia in young patients», BMC Gastroenterol, vol. 24, n.° 1, pp. 269, agosto de 2024. https://doi.org/10.1186/s12876-024-03372-y
-- [14] Instituto Nacional de Estadística e Informática (INEI), "Encuesta demográfica y de salud familiar ENDES 2021 Nacional y Departamental”. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1838/
-- [15] Appiahene, P., Asare, J. W., Donkoh, E. T., Dimauro, G., & Maglietta, R. (2023). Detection of iron deficiency anemia by medical images: a comparative study of machine learning algorithms. BioData mining, 16(1), 2.
-- [16] J. Zhu et al., “A Non-Invasive hemoglobin detection device based on multispectral photoplethysmography,” Biosensors, vol. 14, n.° 1, pp. 22, diciembre de 2023. https://doi.org/10.3390/bios14010022
-- [17] “SHEMO: Smartphone spectroscopy for blood hemoglobin level monitoring in Smart Anemia-Care,” IEEE Journals & Magazine | IEEE Xplore, Mar. 15, 2021. https://ieeexplore.ieee.org/document/9293134
-- [18] N. M. Hinostroza Robles, “ANEMIA INFANTIL EN EL PERÚ: UN PROBLEMA NO RESUELTO”, Rev. Enfermeria Vanguard., vol. 11, n.° 2, pp. 87–88, febrero de 2024. https://doi.org/10.35563/revan.v11i2.537 
-
-
-
+- [2] ..
