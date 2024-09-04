@@ -19,7 +19,7 @@ El hardware abierto u open hardware, son aquellos cuyos diseños de dispositivos
 
 ### CONTEXTO MUNDIAL Y NACIONAL
 
-La investigación es fundamental para el desarrollo de los países. A mayor inversión en investigación, mayor es el crecimiento del país. Lamentablemente en el Perú no se invierte lo suficiente. De acuerdo con el primer y más reiente censo nacional realizado en el 2016 por el Consejo Nacional de Ciencia,Tecnología e innovación Tecnológica (Concytec) se invirtió 517.5 millones de soles en centros de investigación de innovación y desarrollo lo que representa tan solo el 0.08% del PBI a compración de otros países como Estados Unidos que invierten en I+D 2.74% [https://cdn.www.gob.pe/uploads/document/file/1426002/libro_censo_nacional.pdf.pdf?v=1604602075].
+La investigación es fundamental para el desarrollo de los países. A mayor inversión en investigación, mayor es el crecimiento del país. Lamentablemente en el Perú no se invierte lo suficiente. De acuerdo con el primer y más reiente censo nacional realizado en el 2016 por el Consejo Nacional de Ciencia,Tecnología e innovación Tecnológica (Concytec) se invirtió 517.5 millones de soles en centros de investigación de innovación y desarrollo lo que representa tan solo el 0.08% del PBI a compración de otros países como Estados Unidos que invierten en I+D 2.74% [7].
 El siguiente cuadro muestra la distribución de lo invertido en los años 2014 y 2015. 
 
 ![PHOTO-2024-09-02-20-25-06](https://github.com/user-attachments/assets/4dff6e93-cc9c-4a92-82fd-b6663920e3a1)
@@ -76,3 +76,6 @@ Tras describir esta problemática, se establece que se podría apreciar una mejo
 - [1] ..
 
 - [2] ..
+
+- [7] Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC), I Censo Nacional de Investigación y Desarrollo en Centros de Investigación 2016, 2016. https://www.gob.pe/institucion/concytec/informes-publicaciones/1326766-i-censo-nacional-de-investigacion-y-desarrollo-a-centros-de-investigacion-2016
+
