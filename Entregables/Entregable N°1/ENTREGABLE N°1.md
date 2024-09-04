@@ -66,9 +66,7 @@ La limitada disponibilidad y acceso a espectrómetros en el Perú es una problem
 
 Pese a que en los últimos años, el Perú ha registrado un incremento progresivo en la inversión de material tecnológico aún no es suficiente, destinando solo el 0,13% de su PBI al sector de Ciencia, Tecnología e Innovación (CTI). Según la Red de Indicadores de Ciencia y Tecnología (RICYT), el Perú se encuentra entre los países que menos invierten en Investigación y Desarrollo en la región, a diferencia de países como Brasil o Chile. Esto afecta principalmente al avance tecnológico que se desarrolla en universidades públicas y privadas, puesto que no permiten obtener resutaldos cuya prescisión y veracidad, demuestren experimentalmente que son adecuados para el propósito del análisis químico instrumental cualitativo y cuantitativo. 
 
-Tras describir esta problemática, se establece que se podría apreciar una mejora importante en la formación académica de los estudiantes el poder construir sus propios instrumentos, por ejemplo, un espectrómetro.
-
-El espectrómetro que se hablará en este proyecto es el ESPECTRÓMETRO DE LUZ VISIBLE.
+Tras describir esta problemática, se establece que se podría apreciar una mejora importante en la formación académica de los estudiantes el poder construir sus propios instrumentos, por ejemplo, un espectrómetro *LUZ VISIBLE*.
 
 ### BIBLIOGRAFÍA
 - [1] ..
