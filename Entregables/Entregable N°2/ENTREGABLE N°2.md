@@ -26,7 +26,7 @@ Dentro del sector comercial, se encuentran diversos tipos de espectrómetros, co
 
 
 ### PROPUESTA DE SOLUCIÓN 
-
+El diseño de un espesctrofotrómetro VIS Open Hardware para implementar en laboratios de universidades públicas en el Perú
 ### BIBLIOGRAFÍA 
 - [1]
 - [2]
