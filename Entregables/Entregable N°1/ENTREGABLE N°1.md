@@ -30,11 +30,11 @@ Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en
 
 ### ESTADO DEL ARTE CIENTÍFICO
 
-- Detection of iron deficiency anemia by medical images: A comparative study of machine learning algorithms
+- #### Espectrofotómetro inalámbrico portátil de código abierto y bajo coste para mediciones rápidas y fiables
 
-  Autor principal: Peter Appiahene\
-  Fecha de publicación: 24 de enero de 2023\
-  Resumen: Este estudio nos brinda información reciente y útil para saber el estado actual de detección de anemia con métodos no invasivos, utilizando el método de “Machine Learning” para poder aumentar la eficiencia de sus resultados. [15]
+  #### Autor principal: Peter Appiahene
+  #### Fecha de publicación: 24 de enero de 2023
+  #### Resumen: <El artículo describe el desarrollo de un espectrofotómetro portátil inalámbrico de bajo coste, basado en tecnología de código abierto. Este dispositivo emplea diodos emisores de luz (LEDs) como fuente de luz y un detector de fotodiodos para realizar mediciones espectrales. La conectividad inalámbrica facilita la transmisión de datos en tiempo real a dispositivos móviles o computadoras para su análisis. El espectrofotómetro se calibra utilizando patrones de referencia conocidos, garantizando la precisión en la cuantificación de concentraciones de analitos en diferentes muestras. Este dispositivo es especialmente útil en aplicaciones de campo donde se requiere movilidad y acceso inmediato a datos espectrales, como en la monitorización ambiental o análisis de calidad de agua.> [15]
 
 
 - Dispositivo de detección de hemoglobina no invasivo basado en fotopletismografía multiespectral
