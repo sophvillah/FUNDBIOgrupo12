@@ -7,7 +7,7 @@ El principal objetivo de este entregable es establecer el contexto comercial de 
 
 ### CONTEXTO COMERCIAL
 
-Dentro del sector comercial, se encuentran diversos tipos de bastones con gadgets, como sensores de movimientos, de vibración, acelerómetros, luces LED, etc. Para este proyecto, se ha realizado el estado del arte comercial de un bastón inteligente, principalmente debido a la facilidad del uso del hardware para nuestro público objetivo. 
+Dentro del sector comercial, se encuentran diversos tipos de bastones con gadgets, como sensores de movimientos, de vibración, acelerómetros, luces LED, etc. Para este proyecto, se ha realizado el estado del arte comercial de un bastón inteligente, principalmente debido a la facilidad del uso del hardware para el público objetivo elegido. 
 
 ### ESTADO DEL ARTE
 
