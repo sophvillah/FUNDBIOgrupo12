@@ -19,6 +19,7 @@ El principal objetivo de este entregable es plantear formalmente la propuesta de
    #### BEENFICIOS
 
    #### VIABILIDAD TÉCNICA
+   LBDJLCBIWUCBIUPDWB CPUIWBNOCJVN WÓUBNWPUBCPUIDWBIPCUWBPDVJWB
 
 ### COHERENCIA
    #### COHERENCIA DEL PROYECTO
