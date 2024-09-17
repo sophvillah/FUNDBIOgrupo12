@@ -1,40 +1,28 @@
 ### ENTREGABLE N°1
-# LA FALTA DE RECURSOS CIENTÍFICOS EN EL PERÚ ATRASA EL AVANCE TECNOLÓGICO
+# ALTO RIESGO DE SUFRIR CAÍDAS DEBIDO A LA PÉRDIDA DE EQUILIBRIO Y MOVILIDAD POR LA EDAD
 
 ### OBJETIVO
 
-El principal objetivo de este entregable es profundizar el contexto mundial y nacional de la problemática escogida, la limitada disponibilidad y acceso a espectrómetros en el Perú. Para ello, se han consultado diversos artículos científicos, estado del arte científico, que han permitido establecer un panorama más claro para analizar la implementación de un Open Hardware como solución.
+El principal objetivo de este entregable es profundizar el contexto mundial y nacional de la problemática escogida, alto riesgo de sufrir caídas debido a la pérdida de equilibrio y movilidad por la edad. Para ello, se han consultado diversos artículos científicos, estado del arte científico, que han permitido establecer un panorama más claro para analizar la implementación de un Open Hardware como propuesta de solución.
 
 ### PALABRAS CLAVE
 
-1. **Espectrofotómetro:** Instrumento utilizado para medir la intensidad de la luz en función de la longitud de onda e identificar y cuantificar sustancias en soluciones [1].
-2. **Luminiscencia:** Propiedad de emitir luz sin causar una elevación en la temperatura [2].
-3. **Concentración:** Magnitud qué representa la cantidad presente de una sustancia por unidad de volumen [3].
-4. **Fotodetector:** Dispositivo utilizado para detectar la presencia de luz en un área específica [4].
-5. **Pureza:** Sustancia química individual que no está contaminada con otras sustancias [5].
+1. **Giroscopio:** Mide la rotación y orientación de un objeto basándose en el principio de conservación del momento angular [1].
+2. **Acelerómetro:** Detecta cambios en la aceleración lineal y en la inclinación del dispositivo respecto a la gravedad, por lo que proporciona datos sobre la velocidad y la orientación en un eje específico [2].
+3. **LIDAR:** Sensor que utiliza pulsos de luz láser para medir la distancia a objetos y crear mapas 3D detallados de su entorno, proporcionando información precisa sobre la forma y la posición de los objetos [3].
+4. **Bastón inteligente:** Ayuda a mejorar la movilidad y seguridad de personas mayores o con discapacidad al detectar y alertar sobre obstáculos y cambios en el terreno [4].
 
 ### DESARROLLO DE LA TEMÁTICA
 
-El hardware abierto u open hardware, son aquellos cuyos diseños de dispositivos electrónicos son liberados de manera que se pueda estudiar, modificar, fabricar y distribuir el dispositivo de manera libre. En síntesis, se trata de tecnología a la que cualquiera puede acceder y compartir sin restricciones, una suerte de software de código abierto. Con el fin de calificar como open hardware, existen ciertos requisitos que deben cumplirse. En primer lugar, el proyecto debe mostrar toda la documentación que permita a otras personas comprender y trabajar con el diseño, sea este físico o virtual. Adicionalmente, debe quedar claro qué aspecto del diseño está siendo liberado. Si el hardware involucra software, este debe ser de código abierto. La licencia con la cual el hardware será compartido debe permitir modificaciones y distribución sin compartir regalías, aunque sí puede requerir atribuciones. No debe haber discriminación de clase y derechos de redistribución para aquellos que compartan el hardware. [6]
+El hardware abierto u open hardware, son aquellos cuyos diseños de dispositivos electrónicos son liberados de manera que se pueda estudiar, modificar, fabricar y distribuir el dispositivo de manera libre. En síntesis, se trata de tecnología a la que cualquiera puede acceder y compartir sin restricciones, una suerte de software de código abierto. Con el fin de calificar como open hardware, existen ciertos requisitos que deben cumplirse. En primer lugar, el proyecto debe mostrar toda la documentación que permita a otras personas comprender y trabajar con el diseño, sea este físico o virtual. Adicionalmente, debe quedar claro qué aspecto del diseño está siendo liberado. Si el hardware involucra software, este debe ser de código abierto. La licencia con la cual el hardware será compartido debe permitir modificaciones y distribución sin compartir regalías, aunque sí puede requerir atribuciones. No debe haber discriminación de clase y derechos de redistribución para aquellos que compartan el hardware [5].
 
 ### CONTEXTO MUNDIAL Y NACIONAL
 
-La investigación es fundamental para el desarrollo de los países. A mayor inversión en investigación, mayor es el crecimiento del país. Lamentablemente en el Perú no se invierte lo suficiente. De acuerdo con el primer y más reiente censo nacional realizado en el 2016 por el Consejo Nacional de Ciencia,Tecnología e innovación Tecnológica (Concytec) se invirtió 517.5 millones de soles en centros de investigación de innovación y desarrollo lo que representa tan solo el 0.08% del PBI a compración de otros países como Estados Unidos que invierten en I+D 2.74% [7].
-El siguiente cuadro muestra la distribución de lo invertido en los años 2014 y 2015. 
+Hasta 2021, se registraron 761 millones de personas mayores de 65 años a nivel mundial, según datos de la ONU [6]. En Perú, el INEI reportó que para 2023 había casi 4.6 millones de personas mayores de 60. Estos datos hacen dar cuenta que existe un gran porcentaje de adultos mayor tanto en el mundo como en el Perú [7]. 
 
+A medida que las personas van llegando a la tercera edad empiezan a padecer diferentes dolencias que afectan radicalmente su estilo de vida. Entre las cuales se encuentran principalmente la pérdida de audición, visión y movilidad. Además, las caídas pueden ser críticas en su cuerpo, siendo una de las principales causas de mortalidad y morbilidad, adicionalmente casi la tercera parte de adultos mayores al menos sufre de una caída al año. Estás caídas pueden generar lesiones muy graves que agravan aún más su estilo de vida.
 
-![PHOTO-2024-09-02-20-25-06](https://github.com/user-attachments/assets/4dff6e93-cc9c-4a92-82fd-b6663920e3a1)
-Figura 1. Gasto en I+D por sector institucional, 2014-2015 [7].
-
-Se puede observar que en ambos años se invirtió menos del 16% en universidades públicas. El poco apoyo que reciben las universidades dificulta la investigación y enseñanza para los jóvenes del país.
-En este otro cuadro se muestra el tipo de gasto utilizado durante el 2014 y 2015. 
-
-![PHOTO-2024-09-02-20-25-06 2](https://github.com/user-attachments/assets/9c5fdd63-1ee9-46df-b85b-23df2316acd4)
-
-  Figura 2. Gasto en I+D por tipo de gasto e inversión, 2014-2015 [7].
-
-Menos del 16% se destina a equipos e instrumentos para I+D.
-Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en las universidades públicas, debido a la falta de instrumentos y equipos adecuados para llevar a cabo una investigación efectiva [7].
+Teniendo en cuenta lo anterior, es por ello que las personas de tercera edad se apoyan en un bastón que ayuda tanto a aliviar el peso o a ser un apoyo extra al momento de andar. Sin embargo, de acuerdo con un estudio se observó que las personas no saben cómo usar correctamente el bastón. Además en el Perú, lamentablemente existen muchos baches o partes elevadas con las que uno fácilmente se puede tropezar por lo que solamente un bastón simple no necesariamente puede ser de gran ayuda. 
 
 ### ESTADO DEL ARTE CIENTÍFICO
 
@@ -67,29 +55,28 @@ Finalmente, podemos concluir que existe una deficiencia en I+D, especialmente en
 ### DIAGRAMA DE ISHIKAWA
 
 ![Gráfico Diagrama de Ishikawa Profesional Azul](https://github.com/user-attachments/assets/5f56261a-5d11-46ca-8975-562a4fea6033)
+Información extraída de [12].
 
 ### DEFINICIÓN DEL PROBLEMA
 
-La limitada disponibilidad y acceso a espectrómetros en el Perú es una problemática que dificulta el proceso de enseñanza-aprendizaje del análisis químico. Esto sucede principalmente debido al alto costo de la instrumentación comercial disponible.
+A medida que las personas envejecen, su equilibrio, movilidad y capacidad de reacción ante situaciones de riesgo tienden a disminuir. Esto crea un mayor riesgo de caídas, lo cual respecta una las principales causas de lesiones graves e ingresos hospitalarios entre las personas mayores. Estas caídas pueden provocar fracturas, pérdida de confianza al caminar y, en muchos casos, disminución de la independencia, con un impacto negativo en la calidad de vida. Además, consecuencias emocionales como el miedo a volver a caer pueden provocar aislamiento social. Por ello, es fundamental desarrollar soluciones innovadoras que avisen tempranamente de posibles caídas, aportando seguridad y apoyo.
 
-Pese a que en los últimos años, el Perú ha registrado un incremento progresivo en la inversión de material tecnológico aún no es suficiente, destinando solo el 0,13% de su PBI al sector de Ciencia, Tecnología e Innovación (CTI). Según la Red de Indicadores de Ciencia y Tecnología (RICYT), el Perú se encuentra entre los países que menos invierten en Investigación y Desarrollo en la región, a diferencia de países como Brasil o Chile. Esto afecta principalmente al avance tecnológico que se desarrolla en universidades públicas y privadas, puesto que no permiten obtener resutaldos cuya prescisión y veracidad, demuestren experimentalmente que son adecuados para el propósito del análisis químico instrumental cualitativo y cuantitativo. 
-
-Tras describir esta problemática, se establece que se podría apreciar una mejora importante en la formación académica de los estudiantes el poder construir sus propios instrumentos, por ejemplo, un espectrómetro *LUZ VISIBLE* [12].
+El alto riesgo de caídas en las personas mayores está influenciado por varios factores que interactúan entre sí. Aunque los problemas articulares, como la artrosis y la osteoporosis, afectan a la movilidad; es la debilidad muscular, consecuencia del sedentarismo y una nutrición inadecuada, la que agrava aún más la situación. Asimismo, las deficiencias visuales causadas por cataratas o glaucoma reducen la capacidad de percibir el entorno; así como, los trastornos neurológicos como el Parkinson y las consecuencias del accidente cerebrovascular que también limitan las respuestas físicas y motoras. A esto se suma la pérdida del equilibrio, donde los reflejos ralentizados por la edad contrastan con la necesidad de independencia, generando el miedo a caer que, en lugar de proteger, refuerza la inseguridad al caminar [12].
 
 ### BIBLIOGRAFÍA
-[1] R.D. García, "Instrumentos que revolucionaron la química: la historia del espectrofotómetro", 2018.
+[1] S. Reif-Acherman, "Juguetes como instrumentos de enseñanza en ingeniería: los casos del péndulo de Newton y el giroscopio," Ingeniería y competitividad, vol. 16, no. 2, pp. 189-198, 2014.
 
-[2] R.C. Cabriales Gómez, "Luminiscencia en polímeros semiconductores", Ingenierías, vol. 7, no. 23, pp. 12-16, 2004.
+[2] M. J. Aguilar Cordero, A. M. Sánchez López, G. Barrilao, R. Rodríguez Blanque, J. Noack Segovia, y P. Cano, "Descripción del acelerómetro como método para valorar la actividad física en los diferentes periodos de la vida: revisión sistemática," Nutrición hospitalaria, vol. 29, no. 6, pp. 1250-1261, 2014.
 
-[3] S.E. Aguirre, N.V. Piraneque, y J. Linero-Cueto, "Conentración de metales pesados y calidad físico-química de agua de la Ciénaga Grande de Santa Marta", Revista UDCA Actualidad & Divulgación Científica, vol. 24, no. 1, 2021.
+[3] R. T. H. Collis, "Lidar," Applied Optics, vol. 9, no. 8, pp. 1782-1788, 1970.
 
-[4] H. Mateos, "Caracterización de sensores y componentes paar la construcción de un arreglo de fotodetectores para dosimetría en radioterapia," Ph.D. dissertation, Universidad Nacional de Cuyo, 2016.
+[4] O. A. Murillo Cordoba and C. A. Serna Franco, "Prototipo de bastón inteligente para personas con limitación visual," 2017.
 
-[5] P.A. Segura Delgado and C.J. Mosquera Suárez, "El concepto de pureza: una revisión desde la naturaleza de las ciencias", Educación químia, vol. 32, pp. 14-29, 2012.
+[5] Isaac, “Open Hardware: todo lo que necesitas saber - Profesional Review. https://www.profesionalreview.com/2022/07/16/open-hardware/
 
-[6] Isaac, “Open Hardware: todo lo que necesitas saber - Profesional Review. https://www.profesionalreview.com/2022/07/16/open-hardware/
+[6] Una población que envejece exige más pensiones y más salud. (s.f.). Noticias ONU. https://news.un.org/es/story/2023/01/1517857
 
-[7] Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC), I Censo Nacional de Investigación y Desarrollo en Centros de Investigación 2016, pp. 16-17. https://www.gob.pe/institucion/concytec/informes-publicaciones/1326766-i-censo-nacional-de-investigacion-y-desarrollo-a-centros-de-investigacion-2016
+[7] Más de 4 millones 500 mil adultos mayores conmemoran su día este 26 de agosto. (2023, 26 de agosto). Instituto Nacional de Estadística e Informática. https://www.gob.pe/institucion/inei/noticias/824582-mas-de-4-millones-500-mil-adultos-mayores-conmemoran-su-dia-este-26-de-agosto
 
 [8] 
 
