@@ -54,7 +54,8 @@ Teniendo en cuenta lo anterior, es por ello que las personas de tercera edad se 
 
 ### DIAGRAMA DE ISHIKAWA
 
-![Gráfico Diagrama de Ishikawa Profesional Azul](https://github.com/user-attachments/assets/5f56261a-5d11-46ca-8975-562a4fea6033)
+![Gráfico Diagrama de Ishikawa Profesional Azul-3](https://github.com/user-attachments/assets/27c1edc6-4eba-417f-85a7-f0d736c3cdac)
+
 Información extraída de [12].
 
 ### DEFINICIÓN DEL PROBLEMA
