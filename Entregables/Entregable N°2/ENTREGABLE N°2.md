@@ -1,5 +1,5 @@
 ### ENTREGABLE N°2
-# LA FALTA DE RECURSOS CIENTÍFICOS EN EL PERÚ ATRASA EL AVANCE TECNOLÓGICOS
+# ALTO RIESGO DE SUFRIR CAÍDAS DEBIDO A LA PÉRDIDA DE EQUILIBRIO Y MOVILIDAD POR LA EDAD
 
 ### OBJETIVO 
 
@@ -7,102 +7,101 @@ El principal objetivo de este entregable es establecer el contexto comercial de 
 
 ### CONTEXTO COMERCIAL
 
-Dentro del sector comercial, se encuentran diversos tipos de espectrómetros, como los de UV-Vis, infrarrojo (IR) y de luz visible. Para este proyecto, se ha realizado el estado del arte del espectrómetro de luz visible, principalmente debidos a la durabilidad y facilidad de construcción. 
+Dentro del sector comercial, se encuentran diversos tipos de bastones con gadgets, como sensores de movimientos, de vibración, acelerómetros, luces LED, etc. Para este proyecto, se ha realizado el estado del arte comercial de un bastón inteligente, principalmente debido a la facilidad del uso del hardware para nuetsro público objetivo. 
 
 ### ESTADO DEL ARTE
 
-#### DISPOSITIVOS
-- #### Un espectrofotómetro de diodos emisores de luz preciso, exacto y asequible para agua potable y otras pruebas con recursos limitados\
+### DISPOSITIVOS
+- ### WeWalk Smart Cane with Phone App mejora la movilidad de los ciegos y discapacitados visuales
   
-  Los espectrofotómetros se utilizan comúnmente para medir las concentraciones de una amplia variedad de analitos en el agua potable y otras matrices; sin embargo, muchos laboratorios con recursos limitados no pueden permitirse comprar estos instrumentos tan útiles. Para satisfacer esta necesidad, se diseñó y construyó un espectrofotómetro de diodo emisor de luz (LED) preciso, exacto y asequible utilizando las mejores prácticas de ingeniería y un diseño de circuito moderno. El costo y el rendimiento de este espectrofotómetro LED se compararon con 4 espectrofotómetros comerciales comunes. Más específicamente, se evaluó el rendimiento de estos espectrofotómetros a partir de los límites superiores del rango lineal, los límites superiores del rango operativo, las sensibilidades de calibración, los valores R2, las precisiones de los estándares, los límites de detección estimados y las recuperaciones porcentuales del estándar de verificación de calibración para las determinaciones de hierro (Fe), manganeso (Mn) y fluoruro (F−) en agua potable [1].
+  **Resumen:** Este dispositivo revolucionario que utiliza sensores ultrasónicos que detectan obstáculos a la altura del pecho y la cabeza; este brinda información al usuario en todo momento mediante vibración y mediante conexión Bluetooth el celular (compatible con teléfonos inteligentes iOS y Android), ofrece indicaciones auditivas. Cuenta con un panel táctil que permite manejar el bastón sin necesidad de sacar el teléfono;también tiene un localizador a través la app del teléfono [1].
+  
+  **Especificaciones:**
+    - **Material:** Aluminio
+    - **Costo:** USD 299
+    - **Dimensiones:** 47, 54 y 59 pulgadas (Amazon)
+    - **Fabricante:** We Walk
+    - **Disponibilidad:** Nivel Global
+    - **Rango de detección:** Aproximadamente de 0.8 m a 1.58 m (2.6 a 5.2 pies)
+    - **Facilidades:** Se carga entre 2 a 3 horas, posee carga rápida
+    - **Duración de batería:** 20 horas
 
-    <img width="900" alt="image" src="https://github.com/user-attachments/assets/430fe9e9-bf1a-480b-b5c7-9cb7f86abb19">
-    
-  **Precio:** Entre 2 424 dólares y 7 644 dólares\
-  **Especificaciones:**\
-   <img width="768" alt="image" src="https://github.com/user-attachments/assets/67c864bc-2d33-48fd-9200-229916a62f7d">
+  <p align="center">
+     <img width="400" alt="Captura de pantalla 2024-09-17 a la(s) 04 53 04" src="https://github.com/user-attachments/assets/98c4d585-6311-4c46-87be-b29dd3086c6a">
+</p>
 
-- #### Mediciones de pH de agua de mar en el campo: un fotómetro de bricolaje con una precisión de pH de 0,01 unidades\
+- ### ULTRACANE
 
-  Este artículo describe un fotómetro de bricolaje diseñado para medir el pH del agua de mar con una precisión de 0,01 unidades de pH. Este dispositivo utiliza los principios básicos de la óptica y la electrónica y está disponible para que lo construyan ciudadanos y educadores. La precisión lograda lo hace útil para estudios de campo donde el monitoreo del pH es fundamental, como la investigación sobre la acidificación de los océanos. Su construcción rentable y eficiente lo convierte en una herramienta valiosa para la ciencia colaborativa [2].
+   **Resumen:** El dispositivo utiliza sensores ultrasónicos que detectan estructuras que interfieren al usuario del suelo hasta por encima de la cabeza; mantiene informado al usuario mediante vibraciones precisas con 2 botones en el mango que indican distancia y dirección de los objetos mediante vibraciones ;y mientras más cerca estén los objetos el dispositivo vibra con más intensidad, este dispositivo es simple ya que no usa aplicaciones externas y detecta los objetos alrededor del usuario de manera casi precisa [2].
 
-  **Especificaciones:**\
-  - Resolución de medición: 0.01 unidades de pH
-  - Rango de medición: Desde -2.00 hasta 16.00 pH
-  - Peso: 52 gramos
+  **Especificaciones:**
+    - **Material:** Grafito de carbono
+    - **Costo:** EUR 902.87
+    - **Dimensiones:** Ajustable de 105 cm a 150 cm
+    - **Fabricante:** TENYUS
+    - **Disponibilidad:** Nivel Global
+    - **Rango de detección:** De 2 metros a 4 metros (ajustable)
+    - **Facilidades:** Funciona con 2 pilas AA recargables
+    - **Duración de la batería:** Hasta 20 horas de uso
+    - **Peso:** 0.003 kg
 
-   <img width="900" alt="image" src="https://github.com/user-attachments/assets/87cb96d7-62d7-4741-8f3b-ec6205fea77d">
+ <p align="center">
+     <img width="400" alt="Captura de pantalla 2024-09-17 a la(s) 05 06 22" src="https://github.com/user-attachments/assets/ea5d24f8-bf9e-45b0-905f-de4af5cc7d6e">
+</p>
 
-- #### Portable low-cost open-source wireless spectrophotometer for fast and reliable measurements
+- ### Bastón plegable con luz LED y alarma, con mango lateral, plegable, bastón ajustable adecuado para artritis discapacitados y ancianos, bastón con mango acolchado en T y cuatro pedestales
 
-Este artículo describe el desarrollo de un espectrofotómetro portátil que es económico, de código abierto y capaz de realizar mediciones espectrofotométricas precisas. El dispositivo es inalámbrico, lo que lo hace adecuado para su uso en el campo o en el laboratorio sin necesidad de conexiones físicas complejas [3].
+    **Resumen:** Este artefacto se caracteriza por tener una mayor comodidad y seguridad para las personas con discapacidad física. Otra de las características es su tamaño ajustable e incluye también una luz led para la iluminación que es ajustable; también cuenta con un botón de emergencia que emite sirenas y emite una luz roja para notabilidad [3].
 
-**Especificaciones:**\
-  - Portabilidad y bajo costo
-  - Código abierto
-  - Conectividad inalámbrica
-  - Precisión adecuada
+   **Especificaciones:**
+     - **Material:** Aluminio
+     - **Costo:** USD 31.99
+     - **Dimensiones:** Hasta 39 pulgadas
+     - **Fabricante:** AGTEK
+     - **Disponibilidad:** nivel global
+     - **Altura ajustable:** 30.7 a 35 pulgadas
+     - **Facilidades:** Peso máximo soportado es de 313 libras
+     - **Base:** Base cuádruple y base de punta (batería no incluida)
 
-   <img width="900" alt="image" src="https://github.com/user-attachments/assets/f598cf8c-88dd-4c5e-9616-9265d04255da">
+<p align="center">
+  <img width="400" alt="Captura de pantalla 2024-09-17 a la(s) 05 14 06" src="https://github.com/user-attachments/assets/e2a15449-6e22-438e-88de-b710f86971f9">
+</p>
 
+### PATENTES
+- ### Bastón de Apoyo (España, 2023)
+  **N° de patente:** ES1298676\
+  **Resumen:** Es un bastón de apoyo con una empuñadura mejorada para mayor comodidad y seguridad; ya que a diferencia de los bastones tradicionales con empuñaduras rígidas, esta invención incorpora un recubrimiento de material elástico y antideslizante, como silicona, en las superficies de contacto de la empuñadura. Este recubrimiento proporciona un agarre más cómodo al reducir la presión en la palma y los dedos, y mejora la seguridad al evitar el deslizamiento de la mano. El recubrimiento puede cubrir completamente o solo parcialmente la empuñadura, ofreciendo así una solución que alivia el dolor y minimiza el riesgo de caídas [4]. 
 
-#### PATENTES
-- #### MÉTODOS ESPECTROFOTOMÉTRICO Y ESPECTROFOTÓMETRO PARA APLICAR (España, 1998)
-  **N° de patente:** ES2110034\
-  **Resumen:** Este diseño mejora la precisión y velocidad de medición de concentraciones de sustancias específicas mediante un procesamiento optimizado de señales y ajustes de frecuencia.\
-Sus piezas principales son:\
-**Fuente de Radiación Pulsatoria:** Emite luz en pulsos para iluminar la muestra, ajustando la frecuencia de pulsos para mejorar la relación señal/ruido y reducir el tiempo de respuesta.\
-**Componente de Corriente Alterna:** Transporta parte de la señal de medición, proporcionando información sobre la luz transmitida a través de la muestra.\
-**Componente de Corriente Directa:** Representa la señal continua que puede ser filtrada y normalizada para ajustar la medición a condiciones óptimas.\
-**Componente de Señal Oscura:** Indica el ruido o señal de fondo que debe ser corregido para obtener una medición precisa de la concentración de la sustancia.\
-**Analizador de Señal:** Procesa y normaliza la señal de medición filtrada, calculando la concentración de la sustancia específica utilizando una señal de referencia.\
-**Señal de Referencia:** Se utiliza para calibrar y ajustar la medición en el analizador de señal, mejorando la precisión al filtrar el componente de corriente directa.
+<p align="center">
+    <img width="400" alt="Captura de pantalla 2024-09-17 a la(s) 05 18 51" src="https://github.com/user-attachments/assets/af179a78-d3b6-41c3-a712-2a56e19e4c05">
+</p>
 
-  El espectrofotómetro introduce una innovación significativa al permitir ajustes precisos en la frecuencia de impulso de la fuente de radiación pulsatoria, lo que optimiza la relación señal/ruido y reduce el tiempo de respuesta para cambios en la concentración de la sustancia específica [4]. 
+- ### Bastón Electrónico para Asistencia en la Movilidad de Personas con Discapacidad Visual (España, 2014)
+  **N° de patente:** WO2014006243\
+  **Resumen:** Es un bastón electrónico de ayuda a la movilidad para discapacitados visuales que incorpora sensores de ultrasonidos para detectar obstáculos en diferentes regiones del espacio; el cual, a diferencia del bastón blanco, este tiene tres sensores de ultrasonidos orientados para cubrir áreas específicas, desde la cintura hacia arriba y hacia abajo. El sistema emite una vibración a través de una pulsera en la muñeca del usuario cuando detecta obstáculos en la región superior que no serían perceptibles con el bastón convencional. Este diseño busca mejorar la navegación y la seguridad al permitir una mayor detección de obstáculos aéreos y otros peligros que pueden no ser detectados por contacto físico con el bastón [5].
 
-   <img width="900" alt="image" src="https://github.com/user-attachments/assets/a8316467-31d2-47b1-88d7-9027cd481cca">
+<p align="center">
+   <img width="400" alt="Captura de pantalla 2024-09-17 a la(s) 05 20 57" src="https://github.com/user-attachments/assets/75725850-3698-4b44-bffd-b64e4b3dc0fb">
+</p>
 
-- #### Espectrofotómetro de detección de elementos nitrógeno en agua dulce (China, 2014)
-  **N° de patente:** CN206095912\
-  **Resumen:** Este espectrofotómetro se centra en la detección de elementos de nitrógeno en agua dulce.\ 
-Cuenta con la siguiente estructura:\
-**Pantalla de visualización:** Integrada en el cuerpo del espectrofotómetro.\
-**Controles:** Un botón para ajustar la longitud de onda y una boca de muestra para introducir las muestras de agua dulce.\
-**Sistema de retención:** Incluye un tanque con orificios de celda y una capa de algodón en las paredes laterales de los orificios para absorber y mantener seco el área.\
-
- La innovación principal de este modelo es su simplicidad estructural. La capa de algodón absorbe las manchas de agua, y el dispositivo de soplado de aire mantiene esta capa seca, lo que mejora la limpieza y precisión de las pruebas [5].
-
-  <img width="900" alt="image" src="https://github.com/user-attachments/assets/2757ed79-491a-4b7b-8a3e-2986253cd9a5">
-
-- #### Espectrofotómetro Portátil (Estados Unidos, 2016)
-  **N° de patente:** US20140131578A1\
-  **Resumen:** El aparato está diseñado para analizar diversas muestras de manera eficiente y precisa.\ Cuenta principalmente con:\
-**Fuente de Iluminación:** Dirige la luz hacia la muestra para su análisis.\
-**Tubo de Luz Cónico:** Captura la luz que ha interactuado con la muestra en una primera relación focal, y luego redirige esta luz a través de una segunda relación focal más pequeña.\
-**Filtro Variable Lineal:** Separa la luz capturada en diferentes longitudes de onda para crear un espectro de señales.\
-**Matriz de Detectores:** Contiene múltiples píxeles que miden la potencia de las señales para cada longitud de onda.\
-
-  El espectrómetro portátil innova con un diseño óptico avanzado que incluye un tubo de luz cónico con una lente y una funda protectora de paredes escalonadas, lo que mejora la captura y focalización de la luz para una mayor resolución [6].
-
-   <img width="900" alt="image" src="https://github.com/user-attachments/assets/dfdb5720-fd66-43ee-bed7-25bfecb02d35">
+- ### Bastón con Apoyos Anticaídas (España, 2022)
+  **N° de patente:** ES1292599\
+  **Resumen:** Está diseñado para mantenerse en posición vertical cuando se suelta, solucionando el problema de los bastones convencionales que caen al suelo. Incorpora apoyos retráctiles que se despliegan o retraen automáticamente mediante un motor accionado por pulsadores en la empuñadura, eliminando la necesidad de esfuerzo físico por parte del usuario. Esta innovación mejora la estabilidad y autonomía de las personas con movilidad reducida, al permitir que el bastón se mantenga erguido sin caerse [6].
 
 ### LISTA DE REQUERIMIENTOS 
 
-| **Funcionales**   | **No funcionales**   |
-|:--------------:|:--------------:|
-| Capacidad de detección de señales químicas <br><br> Será capaz de conectarse con otros dispositivos por vía USB. <br><br> Tendrá capacidad de ser alimentado a través de la energía solar y eléctrica. | Será portable, compacto y ergonómico para facilitar su adaptación y comodidad a los interesados. <br><br> Facilidad de construcción y costo accesible, puesto que se buscará utilizar componentes sencillos de utilizar y comunes. <br><br> Es ecoamigable y sostenible, pues se usará el material biodegradable (PLA) para la impresión 3D. <br><br> Será fácil de mantener y reparar en casos de fallos. |
 
 ### PROPUESTA DE SOLUCIÓN 
-El diseño de un espectrofotómetro VIS Open Hardware, enfocado en la investigación o enseñanza, además, permitiría una mayor implementación en laboratorios de universidades o colegios públicos. 
+La solución propuesta consiste en un bastón inteligente equipado con sensores especializados capaces de detectar irregularidades en la superficie sobre la que camina el usuario. Estos sensores monitorizan cambios en el terreno, como irregularidades o superficies inestables, y envían alertas al usuario mediante vibraciones, anticipando posibles situaciones de riesgo. Esta tecnología fue desarrollada especialmente para las personas mayores, quienes son más propensas a sufrir caídas debido a la pérdida de equilibrio y movilidad. El bastón no sólo proporciona apoyo físico, sino que también actúa como sistema preventivo, ayudando a evitar accidentes graves y mejorando la seguridad en los movimientos diarios y la calidad de vida [].
 
 ### BIBLIOGRAFÍA 
-- [1] M. W. Prairie, S. H. Frisbie, K. K. Rao, A. H. Saksri, S. Parbat, y E. J. Mitchell, "An accurate, precise, and affordable light emitting diode spectrophotometer for drinking water and other testing with limited resources," PLoS One, vol. 15, no. 1, p. e0226761, Jan. 2020. DOI: 10.1371/journal.pone.0226761. Disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6988917/ 
-- [2] "DI-lambda, the open hardware spectrophotometer," Team Bettencourt/Practices/DILambda, iGEM, 2015. https://2015.igem.org/Team:Paris_Bettencourt/Practices/DILambda.
-- [3] K. Laganovska, A. Zolotarjovs, M. Vázquez, K. McDonnell, J. Liepins, H. Ben-Yoav, V. Karitans, y K. Smits, "Portable low-cost open-source wireless spectrophotometer for fast and reliable measurements," HardwareX, vol. 7, p. e00108, 2020. DOI: 10.1016/j.ohx.2020.e00108. [En línea]. Disponible: https://www.sciencedirect.com/science/article/pii/S246806722030016X
-- [4] S. Brauer, A. Linge, R. Castor, and S. G. Olsson, "Métodos espectrofotométricos y espectrofotómetro para aplicar el método," Patent E93111475, SIEMENS-ELEMA AB, 01-Feb-1998.
-- [5] Z. Xiaodan y W. Jiawen, "Fresh water nitrogen element detection spectrophotometer," CN Patent 206095912 U, 12 de abril de 2017.
-- [6] C. R. Hruska, C. A. Hulse, B. J. Bryars, M. K. von Gunten, C. G. Pederson, N. A. O'Brien, and J. Zieba, "Portable spectrometer," U.S. Patent 8,731,839 B2, issued May 27, 2014.
-
+- [1] Amazon.com: WeWalk Smart Cane Con Aplicación Para Teléfono Inteligente Mejora la Movilidad de las Personas Con Discapacidad Visual - el Bastón Con Cerebro; Versión de 54 Pulgadas : Salud y Hogar, s. f. 
+- [2] Diseño y Desarrollo: Sentido Común Internet. (s.f.). ULTRACANE. https://www.tenyus.com/productos-especificos/ceguera/ultracane_19_66_704_0_1_pro.html
+- [3] Amazon.com: AGPTEK Bastón plegable para mujeres y hombres, bastón ajustable con luz LED y alarma manual para personas mayores y adultos, bastón plegable resistente con base cuádruple y punta : Salud y Hogar. (s. f.). 
+- [4] M. Ferrer Vallín, "Bastón de apoyo," Patent ES1298676, Office Spain, Application No. 202231894, filed 14 Nov. 2022, published 27 Mar. 2023.
+- [5] E. Fernández Jover, C. Pérez Vidal, J. R. Rubio Rives, and A. Alarcón Castro, "Electronic Cane for Assisting with Mobility of Visually Impaired People," WO/2014/006243, PCT/ES2013/070369, filed June 6, 2013, published January 9, 2014.
+- [6] A. García Molino, "Bastón con Apoyos Anticaída," Oficina Española de Patentes y Marcas, Solicitud No. 202230754, Publicación No. 1292599, 7 de julio de 2022.
+- [7] Lavedán, A. (2015). Prevalence and associated factors of falls in community-dwelling elderly. Atención Primaria, 47(6), 367–375. https://doi.org/10.1016/j.aprim.2014.07.012
 
 
 
