@@ -7,7 +7,7 @@ El principal objetivo de este entregable es establecer el contexto comercial de 
 
 ### CONTEXTO COMERCIAL
 
-Dentro del sector comercial, se encuentran diversos tipos de bastones con gadgets, como sensores de movimientos, de vibración, acelerómetros, luces LED, etc. Para este proyecto, se ha realizado el estado del arte comercial de un bastón inteligente, principalmente debido a la facilidad del uso del hardware para nuetsro público objetivo. 
+Dentro del sector comercial, se encuentran diversos tipos de bastones con gadgets, como sensores de movimientos, de vibración, acelerómetros, luces LED, etc. Para este proyecto, se ha realizado el estado del arte comercial de un bastón inteligente, principalmente debido a la facilidad del uso del hardware para nuestro público objetivo. 
 
 ### ESTADO DEL ARTE
 
@@ -92,7 +92,7 @@ Dentro del sector comercial, se encuentran diversos tipos de bastones con gadget
 
 
 ### PROPUESTA DE SOLUCIÓN 
-La solución propuesta consiste en un bastón inteligente equipado con sensores especializados capaces de detectar irregularidades en la superficie sobre la que camina el usuario. Estos sensores monitorizan cambios en el terreno, como irregularidades o superficies inestables, y envían alertas al usuario mediante vibraciones, anticipando posibles situaciones de riesgo. Esta tecnología fue desarrollada especialmente para las personas mayores, quienes son más propensas a sufrir caídas debido a la pérdida de equilibrio y movilidad. El bastón no sólo proporciona apoyo físico, sino que también actúa como sistema preventivo, ayudando a evitar accidentes graves y mejorando la seguridad en los movimientos diarios y la calidad de vida [].
+La solución propuesta consiste en un bastón inteligente equipado con sensores especializados capaces de detectar irregularidades en la superficie sobre la que camina el usuario. Estos sensores monitorizan cambios en el terreno, como irregularidades o superficies inestables, y envían alertas al usuario mediante vibraciones, anticipando posibles situaciones de riesgo. Esta tecnología fue desarrollada especialmente para las personas mayores, quienes son más propensas a sufrir caídas debido a la pérdida de equilibrio y movilidad. El bastón no sólo proporciona apoyo físico, sino que también actúa como sistema preventivo, ayudando a evitar accidentes graves y mejorando la seguridad en los movimientos diarios y la calidad de vida [7].
 
 ### BIBLIOGRAFÍA 
 - [1] Amazon.com: WeWalk Smart Cane Con Aplicación Para Teléfono Inteligente Mejora la Movilidad de las Personas Con Discapacidad Visual - el Bastón Con Cerebro; Versión de 54 Pulgadas : Salud y Hogar, s. f. 
