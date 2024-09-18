@@ -88,6 +88,10 @@ Dentro del sector comercial, se encuentran diversos tipos de bastones con gadget
   **N° de patente:** ES1292599\
   **Resumen:** Está diseñado para mantenerse en posición vertical cuando se suelta, solucionando el problema de los bastones convencionales que caen al suelo. Incorpora apoyos retráctiles que se despliegan o retraen automáticamente mediante un motor accionado por pulsadores en la empuñadura, eliminando la necesidad de esfuerzo físico por parte del usuario. Esta innovación mejora la estabilidad y autonomía de las personas con movilidad reducida, al permitir que el bastón se mantenga erguido sin caerse [6].
 
+<p align="center">
+   <img width="400" alt="Captura de pantalla 2024-09-17 a la(s) 22 16 09" src="https://github.com/user-attachments/assets/c823632f-79a8-4ea0-8c5a-545f080fdef3">
+</p>
+
 ### LISTA DE REQUERIMIENTOS 
 
 
