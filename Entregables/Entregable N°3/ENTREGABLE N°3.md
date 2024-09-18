@@ -23,9 +23,10 @@ El uso de un bastón inteligente no solo ayudaría a prevenir estos incidentes, 
 
    #### CARACTERÍSTICAS DEL PROTOTIPO
 
-   #### BEENFICIOS
+   #### BENEFICIOS
 
    #### VIABILIDAD TÉCNICA
+   Para esta propuesta de solución, se utilizarán sensores ultrasónicos, infrarrojos y de vibración, los cuales tienen funciones complementarias en un sistema de detección de irregularidades en la superficie para prevenir posibles caídas en adultos de la tercera edad. El sensor ultrasónico mide distancias emitiendo ondas sonoras que rebotan en los objetos, lo que resulta útil para detectar obstáculos y evitar colisiones. El sensor de infrarrojos emite luz infrarroja y detecta objetos cercanos o cambios midiendo la reflectancia de la luz, comúnmente utilizado para detectar movimiento o la presencia de obstáculos cercanos. Finalmente, el sensor de vibración proporciona retroalimentación háptica, alertando al usuario mediante vibraciones cuando otros sensores detectan irregularidades, lo que permite una respuesta rápida y discreta [].
 
 ### COHERENCIA
    #### COHERENCIA DEL PROYECTO
@@ -37,6 +38,6 @@ El uso de un bastón inteligente no solo ayudaría a prevenir estos incidentes, 
    #### ALINEACIÓN CON EL PROBLEMA
 
 ### RESUMEN
-### BIBLIGRAFÍA
+### BIBLIOGRAFÍA
 - [1]
 - [2]
