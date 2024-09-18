@@ -26,43 +26,37 @@ Teniendo en cuenta lo anterior, es por ello que las personas de tercera edad se 
 
 ### ESTADO DEL ARTE CIENTÍFICO
 
-- #### Espectrofotómetro inalámbrico portátil de código abierto y bajo coste para mediciones rápidas y fiables
+- #### Un bastón inteligente con biorretroalimentación vibrotáctil mejora la carga del bastón para personas con osteoartritis de rodilla 
 
-  **Autor principal**: Katrina Laganovska\
-  **Fecha de publicación**: abril de 2020\
-  **Resumen**: El artículo describe el desarrollo de un espectrofotómetro portátil inalámbrico de bajo coste, basado en tecnología de código abierto. Este dispositivo emplea diodos emisores de luz (LEDs) como fuente de luz y un detector de fotodiodos para realizar mediciones espectrales. La conectividad inalámbrica facilita la transmisión de datos en tiempo real a dispositivos móviles o computadoras para su análisis. El espectrofotómetro se calibra utilizando patrones de referencia conocidos, garantizando la precisión en la cuantificación de concentraciones de analitos en diferentes muestras. Este dispositivo es especialmente útil en aplicaciones de campo donde se requiere movilidad y acceso inmediato a datos espectrales, como en la monitorización ambiental o análisis de calidad de agua [8].
-
-
-- #### Dispositivo de detección de hemoglobina no invasivo basado en fotopletismografía multiespectral
-
-  **Autor principal**: Michael W. Prairie\
-  **Fecha de publicación**: 29 de enero de 2020\
-  **Resumen**: Este estudio presenta un espectrofotómetro basado en LEDs diseñado para la cuantificación precisa de contaminantes en agua potable, particularmente en entornos con recursos limitados. El espectrofotómetro utiliza un arreglo de LEDs con diferentes longitudes de onda, que permiten la detección selectiva de diversos analitos a través de la absorción de luz en muestras líquidas. La calibración del dispositivo se realiza mediante soluciones estándar, asegurando una linealidad en la respuesta del detector. Además, se destaca la simplicidad del diseño, lo que facilita su construcción y mantenimiento, convirtiéndolo en una herramienta ideal para el monitoreo de calidad de agua en comunidades rurales o zonas con acceso limitado a laboratorios [9].
+  **Autor principal**: Evan Schuster\
+  **Fecha de publicación**: 2019\
+  **Resumen**: Es un diseño de bastón con biorretroalimentación háptica con la finalidad de reducir el momento de aducción de la rodilla (KAM) para personas que padecen de osteoartritis [8].
 
 
-- #### Comprobación forense del método de espectrofotometría de absorción atómica para determinar plomo (Pb) y antimonio (Sb) impregnados en la mano después de disparar un arma de fuego
+- #### S-Cane: Bastón inteligente con sensor ultrasónico para personas con discapacidad visual
 
-  **Autor principal**: Robertha Reina Alminate\
-  **Fecha de publicación**: 2014\
-  **Resumen**:Este artículo explora la aplicación de la espectrofotometría de absorción atómica (AAS) en la detección de residuos de disparo, específicamente plomo (Pb) y antimonio (Sb), en muestras recolectadas de las manos de individuos que han disparado un arma de fuego. El método AAS se basa en la atomización de la muestra y la medición de la absorción de luz en longitudes de onda específicas correspondientes a los metales de interés. La sensibilidad del espectrofotómetro permite la detección de trazas de estos metales, proporcionando evidencia clave en investigaciones forenses. El estudio valida la efectividad del método mediante pruebas comparativas con técnicas tradicionales, demostrando una alta precisión y reproducibilidad en la detección de residuos de disparo [10].
+  **Autor principal**: Amelia Ulfá\
+  **Fecha de publicación**: 2024\
+  **Resumen**: Desarrollo de un bastón inteligente de bajo costo con el objetivo de detectar obstáculos como baches o charcos de agua mediante sensores ultrasónicos y alertar mediante un vibrador [9].
 
-- #### Validación de métodos analíticos para la determinación de boro, zinc y potasio por espectrofotometría en muestras de agua en el Centro de Investigaciones y Control Ambiental (CICAM)
 
-  **Autor principal**: Diana Taipe Echeverría\
-  **Fecha de publicación**: 13 de junio de 2014\
-  **Resumen**:Este informe describe la validación de métodos espectrofotométricos para la determinación de boro, zinc y potasio en muestras de agua. Utilizando un espectrofotómetro UV-Vis, se ajustaron los parámetros analíticos para maximizar la sensibilidad y especificidad en la detección de estos elementos. La metodología incluyó la preparación de curvas de calibración para cada elemento, la realización de pruebas de recuperación en muestras fortificadas, y la evaluación de la precisión intermedia mediante análisis repetidos en diferentes días. Los resultados confirmaron la idoneidad del método para su aplicación en el monitoreo rutinario de calidad de agua, ofreciendo una herramienta robusta y confiable para el análisis de estos elementos en muestras ambientales [11].
+- #### Bastón EVAL: un bastón inteligente basado en IoT para la evaluación de la marcha y el entorno
+
+  **Autor principal**: Ting Wang\
+  **Fecha de publicación**: 2021\
+  **Resumen**: Es una propuesta de bastón inteligente basado en IoT multifuncional que puede analizar la caminata de la persona, detectar objetos y esos datos enviar a una pantalla lcd para el posterior análisis [10].
 
 ### DIAGRAMA DE ISHIKAWA
 
 ![Gráfico Diagrama de Ishikawa Profesional Azul-3](https://github.com/user-attachments/assets/27c1edc6-4eba-417f-85a7-f0d736c3cdac)
 
-Información extraída de [12].
+Información extraída de [11].
 
 ### DEFINICIÓN DEL PROBLEMA
 
 A medida que las personas envejecen, su equilibrio, movilidad y capacidad de reacción ante situaciones de riesgo tienden a disminuir. Esto crea un mayor riesgo de caídas, lo cual respecta una las principales causas de lesiones graves e ingresos hospitalarios entre las personas mayores. Estas caídas pueden provocar fracturas, pérdida de confianza al caminar y, en muchos casos, disminución de la independencia, con un impacto negativo en la calidad de vida. Además, consecuencias emocionales como el miedo a volver a caer pueden provocar aislamiento social. Por ello, es fundamental desarrollar soluciones innovadoras que avisen tempranamente de posibles caídas, aportando seguridad y apoyo.
 
-El alto riesgo de caídas en las personas mayores está influenciado por varios factores que interactúan entre sí. Aunque los problemas articulares, como la artrosis y la osteoporosis, afectan a la movilidad; es la debilidad muscular, consecuencia del sedentarismo y una nutrición inadecuada, la que agrava aún más la situación. Asimismo, las deficiencias visuales causadas por cataratas o glaucoma reducen la capacidad de percibir el entorno; así como, los trastornos neurológicos como el Parkinson y las consecuencias del accidente cerebrovascular que también limitan las respuestas físicas y motoras. A esto se suma la pérdida del equilibrio, donde los reflejos ralentizados por la edad contrastan con la necesidad de independencia, generando el miedo a caer que, en lugar de proteger, refuerza la inseguridad al caminar [12].
+El alto riesgo de caídas en las personas mayores está influenciado por varios factores que interactúan entre sí. Aunque los problemas articulares, como la artrosis y la osteoporosis, afectan a la movilidad; es la debilidad muscular, consecuencia del sedentarismo y una nutrición inadecuada, la que agrava aún más la situación. Asimismo, las deficiencias visuales causadas por cataratas o glaucoma reducen la capacidad de percibir el entorno; así como, los trastornos neurológicos como el Parkinson y las consecuencias del accidente cerebrovascular que también limitan las respuestas físicas y motoras. A esto se suma la pérdida del equilibrio, donde los reflejos ralentizados por la edad contrastan con la necesidad de independencia, generando el miedo a caer que, en lugar de proteger, refuerza la inseguridad al caminar [11].
 
 ### BIBLIOGRAFÍA
 [1] S. Reif-Acherman, "Juguetes como instrumentos de enseñanza en ingeniería: los casos del péndulo de Newton y el giroscopio," Ingeniería y competitividad, vol. 16, no. 2, pp. 189-198, 2014.
@@ -85,7 +79,5 @@ El alto riesgo de caídas en las personas mayores está influenciado por varios 
 
 [10] 
 
-[11] 
-
-[12] 
+[11] O. Appiah and W. Elmannai, "A Smart Cane with Fall Detection System for People with Visual Impairments," 2023 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Abu Dhabi, United Arab Emirates, 2023, pp. 1010-1015, doi: 10.1109/DASC/PiCom/CBDCom/Cy59711.2023.10361350.
 
