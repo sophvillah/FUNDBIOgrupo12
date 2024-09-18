@@ -54,12 +54,12 @@ La propuesta de un bastón inteligente es planteada como una solución tecnológ
 - Utilizar un sistema infrarrojo para detectar las zonas húmedas, alertando al usuario para evitar caminar sobre superficies resbaladizas.
 - Diseñar un sistema de alertas fácil de entender por personas mayores.
 
-   #### JUSTIFICACIÓN DEL PROTOTIPO
+#### JUSTIFICACIÓN DEL PROTOTIPO
   La propuesta planteada es mejor frente a otros dispositivos del mercado por varias razones. Entre ellas tenemos que, el dispositivo mencionado es más innovador debido a que se centra en la detección de baches  en el camino del usuario y también en la detección de la humedad. Por otro lado, los dispositivos existentes en su mayoría tienen la función de guía para personas ciegas o con discapacidades visuales, en su mayoría personas mayores, por ello, se puede decir que este bastón aborda el problema de las irregularidades del terreno.
 
 El bastón permite la detección del terreno y la variación de las irregularidades del terreno, y emite vibraciones antes de que el usuario se caiga o enfrente estos desniveles; con este sistema ayuda a prever caídas y nos ofrece una seguridad más enfocada en el suelo que en el entorno.
 
-   #### ALINEACIÓN CON EL PROBLEMA
+#### ALINEACIÓN CON EL PROBLEMA
    La propuesta presentada aborda el alto riesgo de sufrir caídas debido a la pérdida de equilibrio y movilidad en personas mayores, ya que detecta baches y desniveles; y adicionalmente también puede anticiparse a superficies resbaladizas o charcos, lo que proviene más accidentes.
 
    Asimismo, tiene un costo ligeramente superior al del bastón con luces LED, pero en comparación con los bastones inteligentes para personas con problemas visuales nuestra propuesta ayuda a prevenir caídas por irregularidades en el terreno. Resulta ser una opción más económica que lo bastones inteligentes ;permitiendo ser una opción más accesible para un público más amplio.
@@ -81,12 +81,6 @@ Para probar el prototipo del bastón inteligente, se pueden realizar las siguien
 **Pruebas de usuario:** Probar el bastón con un grupo pequeño de personas mayores en un entorno controlado, midiendo la facilidad de uso y la efectividad de las alertas.
 
 **Pruebas de campo:** Evaluar el funcionamiento del bastón en calles reales con las características comunes de infraestructuras irregulares, para validar su desempeño en situaciones cotidianas.
-
-#### Siguientes Pasos:
-1. Desarrollo del prototipo inicial con los sensores y el sistema de alertas vibratorias.
-2. Validación de los componentes electrónicos y su integración en el diseño del bastón.
-3. Pruebas controladas y de campo para afinar el diseño y garantizar que el bastón responde adecuadamente a las condiciones reales.
-4. Optimización y escalabilidad, ajustando el diseño para su posible comercialización y distribución en mercados de dispositivos de asistencia de los adultos mayores.
 
 
 ### BIBLIOGRAFÍA
