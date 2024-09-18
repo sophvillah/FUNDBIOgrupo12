@@ -93,7 +93,7 @@ Dentro del sector comercial, se encuentran diversos tipos de bastones con gadget
 </p>
 
 ### LISTA DE REQUERIMIENTOS 
-
+![2](https://github.com/user-attachments/assets/e217a6b2-939b-4d8d-a795-da43c3f92961)
 
 ### PROPUESTA DE SOLUCIÓN 
 La solución propuesta consiste en un bastón inteligente equipado con sensores especializados capaces de detectar irregularidades en la superficie sobre la que camina el usuario. Estos sensores monitorizan cambios en el terreno, como irregularidades o superficies inestables, y envían alertas al usuario mediante vibraciones, anticipando posibles situaciones de riesgo. Esta tecnología fue desarrollada especialmente para las personas mayores, quienes son más propensas a sufrir caídas debido a la pérdida de equilibrio y movilidad. El bastón no sólo proporciona apoyo físico, sino que también actúa como sistema preventivo, ayudando a evitar accidentes graves y mejorando la seguridad en los movimientos diarios y la calidad de vida [7].
