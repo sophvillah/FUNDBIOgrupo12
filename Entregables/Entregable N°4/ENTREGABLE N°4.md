@@ -29,4 +29,10 @@
 ![IMG_0361](https://github.com/user-attachments/assets/307e383c-42c6-49c6-aeb5-bcbeba1a7e5a)
 <img width="631" alt="Captura de pantalla 2024-09-24 a la(s) 23 30 46" src="https://github.com/user-attachments/assets/8a66d8f1-a105-4997-be0d-1ea3ab14e65e">
 
+#### TÍTULO DEL PROYECTO 
+Ch’ikhi Caña
+
+#### DESCRIPCIÓN DEL DISPOSITIVO
+Está diseñado para ayudar a personas mayores o con problemas de movilidad, integrando tecnología de sensores para detectar caídas, desniveles o riesgos en su entorno. Utiliza acelerómetros, sensores de presión y motores vibradores para proporcionar alertas en tiempo real mediante vibraciones o luces, mejorando la seguridad y estabilidad del usuario.
+
 
