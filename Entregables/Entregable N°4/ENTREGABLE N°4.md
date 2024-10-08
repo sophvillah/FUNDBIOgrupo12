@@ -3,18 +3,19 @@
 
 ### CAJA NEGRA
 
-![2](https://github.com/user-attachments/assets/b834cbe8-0583-45c8-94d0-eedfac80dab8)
+![2](https://github.com/user-attachments/assets/f5d7a521-379a-4a3d-8d42-484b96409059)
+
 
 ### LISTA DE ENTRADAS Y SALIDAS 
-![3](https://github.com/user-attachments/assets/055fcc0b-eeb9-4cb4-8ace-b2ac3b17e0b5)
-![4](https://github.com/user-attachments/assets/1458c695-8373-4a3e-aa34-38fa4efc1b2a)
+![3](https://github.com/user-attachments/assets/19fffd9c-781f-4cb8-bfcd-e32605b91473)
+![4](https://github.com/user-attachments/assets/c0bc4575-3d90-4060-915c-ce8c52a17e61)
+
 
 ### ESQUEMA DE FUNCIONES
 ![5](https://github.com/user-attachments/assets/d767d819-17ad-4497-abd8-816b4dbf96b1)
 
 ### MATRIZ MORFLÓGICA
-![WhatsApp_Image_2024-09-24_at_23 47 39](https://github.com/user-attachments/assets/cc816ce4-3247-44ed-898f-c27f15195575)
-![WhatsApp_Image_2024-09-24_at_23 47 12](https://github.com/user-attachments/assets/f7cbb5e0-a38f-48fb-a5bb-c5045dda4a47)
+<img width="400" alt="Captura de pantalla 2024-10-07 a la(s) 23 13 43" src="https://github.com/user-attachments/assets/26b198d5-8d1d-416e-a0c3-31b0ca99b0ff">
 
 
 ### TABLA DE VALORACIÓN 
