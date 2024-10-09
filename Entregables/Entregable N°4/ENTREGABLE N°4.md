@@ -26,10 +26,12 @@
 ![caja negra](https://github.com/user-attachments/assets/cb0ca864-6494-4e13-860f-4dcda2de6d65)
 
 ### BOCETOS
-
+#### OPCIÓN 01
 ![image0](https://github.com/user-attachments/assets/1bb97390-8a6b-451d-8921-9f261ab40604)
 
+#### OPCIÓN 02
 ![image1111](https://github.com/user-attachments/assets/b9ea125f-0ce8-4441-826e-d93b314e9f6e)
 
+#### OPCIÓN 03
 ![image777](https://github.com/user-attachments/assets/f37b2e13-4586-4bde-a088-cc82bed5b7ab)
 
