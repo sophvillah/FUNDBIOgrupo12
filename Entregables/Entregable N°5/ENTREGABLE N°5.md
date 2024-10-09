@@ -38,6 +38,10 @@ LINK SKETCHFAB: https://skfb.ly/prE7H
 
 LINK SKETCHFAB: https://skfb.ly/prE7P
 
+#### NANO ARDUINO
+<img width="438" alt="Captura de pantalla 2024-10-08 a la(s) 23 58 04" src="https://github.com/user-attachments/assets/8279042d-eaf2-43c0-8f87-a7bb76ca63c0">
+
+
 #### LINK COMPARTIDO ONSHAPE
 
 
