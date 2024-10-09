@@ -15,25 +15,21 @@
 ![5](https://github.com/user-attachments/assets/d767d819-17ad-4497-abd8-816b4dbf96b1)
 
 ### MATRIZ MORFLÓGICA
-<img width="400" alt="Captura de pantalla 2024-10-07 a la(s) 23 13 43" src="https://github.com/user-attachments/assets/26b198d5-8d1d-416e-a0c3-31b0ca99b0ff">
+![f03bc67e-9199-416f-87a6-3ffc31044328](https://github.com/user-attachments/assets/34de61b9-fd87-47f3-87ba-40104e21f2ab)
 
 
 ### TABLA DE VALORACIÓN 
-<img width="642" alt="Captura de pantalla 2024-09-24 a la(s) 23 49 43" src="https://github.com/user-attachments/assets/20280e0e-beea-4be3-91eb-586570407e11">
+![image222](https://github.com/user-attachments/assets/007c31c4-f424-40cb-a61f-a0f9c5a6592e)
+
 
 ### CONCLUSIÓN DE CS ELEGIDO 
 ![caja negra](https://github.com/user-attachments/assets/cb0ca864-6494-4e13-860f-4dcda2de6d65)
 
 ### BOCETOS
 
-![IMG_0362](https://github.com/user-attachments/assets/aa914308-99a4-4596-b078-e3769f9fb859)
-![IMG_0361](https://github.com/user-attachments/assets/307e383c-42c6-49c6-aeb5-bcbeba1a7e5a)
-<img width="631" alt="Captura de pantalla 2024-09-24 a la(s) 23 30 46" src="https://github.com/user-attachments/assets/8a66d8f1-a105-4997-be0d-1ea3ab14e65e">
+![image0](https://github.com/user-attachments/assets/1bb97390-8a6b-451d-8921-9f261ab40604)
 
-#### TÍTULO DEL PROYECTO 
-Ch’ikhi Caña
+![image1111](https://github.com/user-attachments/assets/b9ea125f-0ce8-4441-826e-d93b314e9f6e)
 
-#### DESCRIPCIÓN DEL DISPOSITIVO
-Está diseñado para ayudar a personas mayores o con problemas de movilidad, integrando tecnología de sensores para detectar caídas, desniveles o riesgos en su entorno. Utiliza acelerómetros, sensores de presión y motores vibradores para proporcionar alertas en tiempo real mediante vibraciones o luces, mejorando la seguridad y estabilidad del usuario.
-
+![image777](https://github.com/user-attachments/assets/f37b2e13-4586-4bde-a088-cc82bed5b7ab)
 
