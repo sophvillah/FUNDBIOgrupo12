@@ -10,6 +10,8 @@
 
 #### PROTOTIPADO ELECTRÓNICO 
 ![WhatsApp Image 2024-10-29 at 11 41 14 PM](https://github.com/user-attachments/assets/981b6e41-5d8a-408e-bcfa-853f89b6134e)
+![HITO 01 (2)](https://github.com/user-attachments/assets/22b401db-bfa3-45d5-8019-3653f5abff01)
+
 
 
 ___________________________________________________________________________________________
@@ -37,6 +39,8 @@ Link en SketchFab: https://skfb.ly/prZn9
 ___________________________________________________________________________________________
 ### REPORTE DE PRUEBAS, RETOS Y LIMITACIONES DE LOS COMPONENTES POR SEPARADO
 #### FUNCIONALIDAD BÁSICA Y USABILIDAD DEL SISTEMA
+<img width="630" alt="Captura de pantalla 2024-10-29 a la(s) 23 50 50" src="https://github.com/user-attachments/assets/3e791615-fb85-449e-997f-e4bdb62191f1">
+
 
 #### RETOS 
 - El prototipo puede no funcionar correctamente en todo los tipos de bastones.
