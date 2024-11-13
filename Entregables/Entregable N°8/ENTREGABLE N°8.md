@@ -17,7 +17,7 @@
 ![image__](https://github.com/user-attachments/assets/8001757e-cd2f-4287-b2bd-7c5d85a07081)
 ![12](https://github.com/user-attachments/assets/20cf555a-0ed1-4e24-beb1-7cafb6e5f336)
 ![Diseño sin título (1)](https://github.com/user-attachments/assets/7a18faab-2c33-4a5a-8bf3-ece1ec43b04e)
-![PHOTO-2024-11-12-23-07-18](https://github.com/user-attachments/assets/3b8e4e66-6ed2-43c6-9692-80bc0a5c0284)
+![Diseño sin título (3)](https://github.com/user-attachments/assets/d6502f8f-711e-4af4-bd5d-047a3d3ca5e9)
 
 ### 
 
