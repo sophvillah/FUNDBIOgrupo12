@@ -33,3 +33,6 @@
 
 ## MODIFICACIONES EN LA PARTE ELECTRÓNICA
 https://drive.google.com/drive/folders/1gYgBX_U2brI6sbnOaZ3Vo5LwlOUSjiQJ?usp=sharing
+
+## AVANCE DE APP
+![Diseño sin título](https://github.com/user-attachments/assets/b4095e65-a7b8-4902-b907-0e9893354962)
