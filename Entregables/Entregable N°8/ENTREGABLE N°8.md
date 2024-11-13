@@ -3,6 +3,11 @@
 ### DISEÑO ELECTRÓNICO
 ![PHOTO-2024-11-12-16-32-36](https://github.com/user-attachments/assets/f9fc0ac7-6813-4ad3-b798-6225adaa61d8)
 
+Link (VIDEOS DE COMPONENTES): https://drive.google.com/drive/folders/1gYgBX_U2brI6sbnOaZ3Vo5LwlOUSjiQJ?usp=sharing
+
+![Se logró la correcta conexión entre el modulo HC06 con el dispositivo móvil](https://github.com/user-attachments/assets/d8da5dd9-3f48-4dec-97f1-33016710da6b)
+![WhatsApp Image 2024-11-12 at 11 51 02 PM](https://github.com/user-attachments/assets/1acb855f-62a5-4117-aaa6-9e4df422155b)
+
 ### PLANOS
 ![plano_case_componentes_ (1)](https://github.com/user-attachments/assets/26dc5dd6-1f19-4048-b19a-5c34d20f78fa)
 ![plano_case_dentro_ (1)](https://github.com/user-attachments/assets/1dd26521-3701-4d18-9fc6-7ccd2d2ef5c2)
@@ -19,6 +24,9 @@
 ![Diseño sin título (1)](https://github.com/user-attachments/assets/7a18faab-2c33-4a5a-8bf3-ece1ec43b04e)
 ![Diseño sin título (3)](https://github.com/user-attachments/assets/d6502f8f-711e-4af4-bd5d-047a3d3ca5e9)
 
-### 
+### FUNCIONALIDAD BÁSICA Y USABILIDAD DEL SISTEMA
+![WhatsApp Image 2024-11-12 at 11 44 41 PM](https://github.com/user-attachments/assets/031b9876-5c49-45a6-aaa1-01d5a1f8b33b)
+
+
 
 
