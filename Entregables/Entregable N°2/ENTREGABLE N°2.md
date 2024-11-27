@@ -1,5 +1,5 @@
 ### ENTREGABLE N°2
-# ALTO RIESGO DE SUFRIR CAÍDAS DEBIDO A LA PÉRDIDA DE EQUILIBRIO Y MOVILIDAD POR LA EDAD
+# ESCASEZ Y ALTO COSTO DE LOS BASTONES CON SENSORES DE CARGA
 
 ### OBJETIVO 
 
@@ -7,14 +7,14 @@ El principal objetivo de este entregable es establecer el contexto comercial de 
 
 ### CONTEXTO COMERCIAL
 
-Dentro del sector comercial, se encuentran diversos tipos de bastones con gadgets, como sensores de movimientos, de vibración, acelerómetros, luces LED, etc. Para este proyecto, se ha realizado el estado del arte comercial de un bastón inteligente, principalmente debido a la facilidad del uso del hardware para el público objetivo elegido. 
+Dentro del sector comercial, se encuentran diversos tipos de bastones con gadgets, como sensores de movimientos, de vibración, acelerómetros, luces LED, etc. Para este proyecto, se ha realizado el estado del arte comercial de un bastón inteligente, principalmente debido a la facilidad del uso del hardware para el público objetivo elegido.
 
 ### ESTADO DEL ARTE
 
 ### DISPOSITIVOS
 - ### WeWalk Smart Cane with Phone App mejora la movilidad de los ciegos y discapacitados visuales
   
-  **Resumen:** Este dispositivo revolucionario que utiliza sensores ultrasónicos que detectan obstáculos a la altura del pecho y la cabeza; este brinda información al usuario en todo momento mediante vibración y mediante conexión Bluetooth el celular (compatible con teléfonos inteligentes iOS y Android), ofrece indicaciones auditivas. Cuenta con un panel táctil que permite manejar el bastón sin necesidad de sacar el teléfono;también tiene un localizador a través la app del teléfono [1].
+  **Resumen:** Este dispositivo revolucionario que utiliza sensores ultrasónicos que detectan obstáculos a la altura del pecho y la cabeza; este brinda información al usuario en todo momento mediante vibración y mediante conexión Bluetooth el celular (compatible con teléfonos inteligentes iOS y Android), ofrece indicaciones auditivas. Cuenta con un panel táctil que permite manejar el bastón sin necesidad de sacar el teléfono; también tiene un localizador a través la app del teléfono [1].
   
   **Especificaciones:**
     - **Material:** Aluminio
