@@ -59,8 +59,6 @@ La incorporación de celdas de carga en los bastones se está utilizando para pr
 
 <img width="1000" alt="Captura de pantalla 2024-11-26 a la(s) 23 11 44" src="https://github.com/user-attachments/assets/eb50fe9a-2855-46bb-a8c8-ae338e537860">
 
-Información extraída de [12].
-
 ### DEFINICIÓN DEL PROBLEMA
 
 La incorporación de celdas de carga en los bastones tiene costos elevados, lo que dificulta su adquisición, y la mayoría de los usuarios no reciben instrucciones adecuadas sobre cómo utilizarlos eficazmente para descargar el peso de la rodilla. Además, desconocen cuánto porcentaje de su peso está soportando el bastón. Esta situación, sumada al alto precio y la escasez de bastones con sensores de fuerza en los centros de salud del Perú, afecta significativamente la efectividad de las terapias de rehabilitación de osteoartritis, ya que estos instrumentos representan una herramienta clave en dicho proceso.
@@ -76,18 +74,15 @@ La incorporación de celdas de carga en los bastones tiene costos elevados, lo q
 
 [5] Isaac, “Open Hardware: todo lo que necesitas saber - Profesional Review. https://www.profesionalreview.com/2022/07/16/open-hardware/
 
-[6] H. Long, Q. Liu, H. Yin, N. Diao, Y. Zhang, J. Lin, et al., "Prevalence trends of site-specific osteoarthritis from 1990 to 2019: Findings from the global burden of disease study 2019," *Arthritis Rheumatol*, vol. 74, no. 7, pp. 1172-1183, 2022.
+[6] H. Long, Q. Liu, H. Yin, N. Diao, Y. Zhang, J. Lin, et al., "Prevalence trends of site-specific osteoarthritis from 1990 to 2019: Findings from the global burden of disease study 2019", *Arthritis Rheumatol*, vol. 74, no. 7, pp. 1172-1183, 2022.
 
 [7] A. Cieza, K. Causey, K. Kamenow, S. Wulf Hansen, S. Chatterji, and T. Vos, "Global estimates of the need for rehabilitation based on the Global Burden of Disease study 2019: a systematic analysis for the Global Burden of Disease Study 2019," *Lancet*, vol. 396, no. 10267, pp. 2006–2017, Dec. 2020.
 
-[8] R. L. Routson, M. Bailey, I. Pumford, J. M. Czerniecki, y P. M. Aubin, «A smart cane with vibrotactile biofeedback improves cane loading for people with knee osteoarthritis», *2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, ago. 2016, pp. 3370-3373. doi: 10.1109/EMBC.2016.7591450.
+[8] R. L. Routson, M. Bailey, I. Pumford, J. M. Czerniecki, y P. M. Aubin, "A smart cane with vibrotactile biofeedback improves cane loading for people with knee osteoarthritis", *2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, ago. 2016, pp. 3370-3373. doi: 10.1109/EMBC.2016.7591450.
 
-[9]  
+[9] Andrés Trujillo-León, Wael Bachta, Fernando Vidal-Verdú, "Tactile Sensor-Based Steering as a Substitute of the Attendant Joystick in Powered Wheelchairs", *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, vol.26, no.7, pp.1381-1390, 2018.
 
-[10] 
+[10] Rebecca L. Routson, Marcus Bailey, Isabelle Pumford, Joseph M. Czerniecki, y Patrick M. Aubin. “A Smart Cane with Vibrotactile Biofeedback Improves Cane Loading for People with Knee Osteoarthritis”, *Annu Int Conf IEEE Eng Med Biol Soc*, pp. 3370-3373, Aug. 2016. DOI: 10.1109/EMBC.2016.7591450
 
-[11] 
-
-[12] 
-
+[11] Joaquin Ballesteros, Alberto Tudela, Juan Rafael Caro-Romero y Cristina Urdiales. “Weight-Bearing Estimation for Cane Users by Using Onboard Sensors”, Sensors (Basel). vol. 19, no. 3, pp. 509, Jan 26. 2019, DOI: 10.3390/s19030509.
 
