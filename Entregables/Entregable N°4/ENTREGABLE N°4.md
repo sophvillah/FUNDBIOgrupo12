@@ -12,14 +12,13 @@
 
 
 ### ESQUEMA DE FUNCIONES
-![5](https://github.com/user-attachments/assets/d767d819-17ad-4497-abd8-816b4dbf96b1)
+<img width="851" alt="Captura de pantalla 2024-10-23 a la(s) 23 44 26" src="https://github.com/user-attachments/assets/aa62aad0-c63c-4698-ab30-52640747f70e">
 
 ### MATRIZ MORFLÓGICA
-![f03bc67e-9199-416f-87a6-3ffc31044328](https://github.com/user-attachments/assets/34de61b9-fd87-47f3-87ba-40104e21f2ab)
-
+<img width="430" alt="Captura de pantalla 2024-10-24 a la(s) 00 02 39" src="https://github.com/user-attachments/assets/3dd3e356-d6b3-4937-b84c-bdbb43d50d0c">
 
 ### TABLA DE VALORACIÓN 
-![image222](https://github.com/user-attachments/assets/007c31c4-f424-40cb-a61f-a0f9c5a6592e)
+<img width="575" alt="Captura de pantalla 2024-11-27 a la(s) 02 18 34" src="https://github.com/user-attachments/assets/538ad272-1cff-46cd-9f4b-521293a5c91f">
 
 
 ### CONCLUSIÓN DE CS ELEGIDO 
