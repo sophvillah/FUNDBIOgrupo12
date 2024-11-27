@@ -5,7 +5,7 @@
 
 
 ## ÍNDICE
-- [OBJETIVO](https://github.com/sophvillah/FUNDBIOgrupo12/edit/main/Entregables/Entregable%20N%C2%B01/ENTREGABLE%20N%C2%B01.md#objetivo)
+- [OBJETIVO](#objetivo)
 - [PALABRAS CLAVE](URL "Título del enlace")
 - [DESARROLLO DE LA TEMÁTICA](URL "Título del enlace")
 - [ESTADO DEL ARTE CIENTÍFICO](URL "Título del enlace")
