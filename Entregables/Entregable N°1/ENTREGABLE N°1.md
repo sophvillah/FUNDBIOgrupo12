@@ -2,16 +2,14 @@
 # ESCASEZ Y ALTO COSTO DE LOS BASTONES CON SENSORES DE CARGA
 ![dfcb30_b82a837c42ea4b7190653340daab7b6f~mv2](https://github.com/user-attachments/assets/370eccb8-8d01-4c8b-a777-d819f2606e75)
 
-
-
 ## ÍNDICE
 - [OBJETIVO](#objetivo)
-- [PALABRAS CLAVE](URL "Título del enlace")
-- [DESARROLLO DE LA TEMÁTICA](URL "Título del enlace")
-- [ESTADO DEL ARTE CIENTÍFICO](URL "Título del enlace")
-- [DIAGRAMA DE ISHIKAWA](URL "Título del enlace")
-- [DEFINICIÓN DEL PROBLEMA](URL "Título del enlace")
-- [BIBLIOGRAFÍA](URL "Título del enlace")
+- [PALABRAS CLAVE](#palabras-clave)
+- [DESARROLLO DE LA TEMÁTICA](#desarrollo-de-la-temática)
+- [ESTADO DEL ARTE CIENTÍFICO](#estado-del-arte-científico)
+- [DIAGRAMA DE ISHIKAWA](#diagrama-de-ishikawa)
+- [DEFINICIÓN DEL PROBLEMA](#definición-del-problema)
+- [BIBLIOGRAFÍA](#bibliografía)
  
 
 ### OBJETIVO
@@ -39,60 +37,57 @@ La incorporación de celdas de carga en los bastones se está utilizando para pr
 
 ### ESTADO DEL ARTE CIENTÍFICO
 
-- #### Un bastón inteligente con biorretroalimentación vibrotáctil mejora la carga del bastón para personas con osteoartritis de rodilla 
+- #### A tactile handle for cane use monitoring
 
-  **Autor principal**: Evan Schuster\
-  **Fecha de publicación**: 2019\
-  **Resumen**: Es un diseño de bastón con biorretroalimentación háptica con la finalidad de reducir el momento de aducción de la rodilla (KAM) para personas que padecen de osteoartritis [10].
+   **Autor principal**: Andrés Trujillo-León\
+  **Fecha de publicación**: 2015\
+  **Resumen**: Mango táctil diseñado para monitorear el uso de bastones en rehabilitación y asistencia al caminar. Este mango está equipado con sensores de presión distribuidos en sus caras, capaces de medir tanto la fuerza aplicada por el usuario como la orientación del bastón en el plano sagital. Además, incluye una unidad de medición inercial (IMU) para registrar el ángulo de inclinación del bastón y un sensor de fuerza para medir la carga total ejercida. Los datos son procesados por un microcontrolador y analizados para correlacionar el uso del bastón con las fuerzas aplicadas y su orientación [9].
 
+- #### A Smart Cane with Vibrotactile Biofeedback Improves Cane Loading for People with Knee Osteoarthritis
 
-- #### S-Cane: Bastón inteligente con sensor ultrasónico para personas con discapacidad visual
-
-  **Autor principal**: Amelia Ulfá\
+  **Autores principales**: Rebecca L. Routson, Marcus Bailey, Isabelle Pumford, Joseph M. Czerniecki, y Patrick M. Aubin\
   **Fecha de publicación**: 2024\
-  **Resumen**: Desarrollo de un bastón inteligente de bajo costo con el objetivo de detectar obstáculos como baches o charcos de agua mediante sensores ultrasónicos y alertar mediante un vibrador [11].
+  **Resumen**: Bastón inteligente diseñado para personas con osteoartritis de rodilla. Este bastón incluye retroalimentación vibrotáctil en tiempo real para mejorar la carga sobre el bastón, promoviendo una distribución adecuada del peso corporal. Se comprobó que el uso de esta tecnología aumenta significativamente la carga del bastón en comparación con el uso de un bastón convencional con instrucciones verbales. Los resultados sugieren que este bastón puede reducir la carga en la rodilla, disminuir el dolor y potencialmente retrasar la progresión de la osteoartritis [10].
 
+- #### Weight-Bearing Estimation for Cane Users by Using Onboard Sensors
 
-- #### Bastón EVAL: un bastón inteligente basado en IoT para la evaluación de la marcha y el entorno
-
-  **Autor principal**: Ting Wang\
-  **Fecha de publicación**: 2021\
-  **Resumen**: Es una propuesta de bastón inteligente basado en IoT multifuncional que puede analizar la caminata de la persona, detectar objetos y esos datos enviar a una pantalla lcd para el posterior análisis [12].
+  **Autores principales**: Joaquin Ballesteros, Alberto Tudela, Juan Rafael Caro-Romero y Cristina Urdiales\
+  **Fecha de publicación**: 2019\
+  **Resumen**: Módulo económico y adaptable que puede integrarse en bastones comerciales para monitorear la carga soportada por el usuario. Diseñado para personas mayores o con discapacidad, el sistema permite evaluar la condición del usuario a través de sensores colocados en el bastón que registran la carga dinámica durante actividades diarias. Es de bajo costo, no altera la ergonomía del bastón y ofrece monitoreo continuo por largos periodos sin necesidad de recarga. Los resultados demuestran que la carga registrada correlaciona con la velocidad de marcha, proporcionando información útil para rehabilitación y cuidado preventivo [11].
 
 ### DIAGRAMA DE ISHIKAWA
 
-![Gráfico Diagrama de Ishikawa Profesional Azul-3](https://github.com/user-attachments/assets/27c1edc6-4eba-417f-85a7-f0d736c3cdac)
+<img width="1000" alt="Captura de pantalla 2024-11-26 a la(s) 23 11 44" src="https://github.com/user-attachments/assets/eb50fe9a-2855-46bb-a8c8-ae338e537860">
 
-Información extraída de [13].
+Información extraída de [12].
 
 ### DEFINICIÓN DEL PROBLEMA
 
 La incorporación de celdas de carga en los bastones tiene costos elevados, lo que dificulta su adquisición, y la mayoría de los usuarios no reciben instrucciones adecuadas sobre cómo utilizarlos eficazmente para descargar el peso de la rodilla. Además, desconocen cuánto porcentaje de su peso está soportando el bastón. Esta situación, sumada al alto precio y la escasez de bastones con sensores de fuerza en los centros de salud del Perú, afecta significativamente la efectividad de las terapias de rehabilitación de osteoartritis, ya que estos instrumentos representan una herramienta clave en dicho proceso.
 
 ### BIBLIOGRAFÍA
-[1] S. Reif-Acherman, "Juguetes como instrumentos de enseñanza en ingeniería: los casos del péndulo de Newton y el giroscopio," Ingeniería y competitividad, vol. 16, no. 2, pp. 189-198, 2014.
+[1] S. Reif-Acherman, "Juguetes como instrumentos de enseñanza en ingeniería: los casos del péndulo de Newton y el giroscopio," *Ingeniería y competitividad*, vol. 16, no. 2, pp. 189-198, 2014.
 
-[2] M. J. Aguilar Cordero, A. M. Sánchez López, G. Barrilao, R. Rodríguez Blanque, J. Noack Segovia, y P. Cano, "Descripción del acelerómetro como método para valorar la actividad física en los diferentes periodos de la vida: revisión sistemática," Nutrición hospitalaria, vol. 29, no. 6, pp. 1250-1261, 2014.
+[2] M. J. Aguilar Cordero, A. M. Sánchez López, G. Barrilao, R. Rodríguez Blanque, J. Noack Segovia, y P. Cano, "Descripción del acelerómetro como método para valorar la actividad física en los diferentes periodos de la vida: revisión sistemática," *Nutrición hospitalaria*, vol. 29, no. 6, pp. 1250-1261, 2014.
 
-[3]H. A. Wieland, M. Michaelis, B. J. Kirschbaum, and K. A. Rudolphi, "Osteoarthritis—an untreatable disease?," Nat. Rev. Drug Discov., vol. 4, no. 4, pp. 331-344, 2005.
+[3]H. A. Wieland, M. Michaelis, B. J. Kirschbaum, and K. A. Rudolphi, "Osteoarthritis—an untreatable disease?," *Nat. Rev. Drug Discov.*, vol. 4, no. 4, pp. 331-344, 2005.
 
 [4] O. A. Murillo Cordoba and C. A. Serna Franco, "Prototipo de bastón inteligente para personas con limitación visual," 2017.
 
 [5] Isaac, “Open Hardware: todo lo que necesitas saber - Profesional Review. https://www.profesionalreview.com/2022/07/16/open-hardware/
 
-[6]H. Long, Q. Liu, H. Yin, N. Diao, Y. Zhang, J. Lin, et al., "Prevalence trends of site-specific osteoarthritis from 1990 to 2019: Findings from the global burden of disease study 2019," *Arthritis Rheumatol*, vol. 74, no. 7, pp. 1172-1183, 2022.
+[6] H. Long, Q. Liu, H. Yin, N. Diao, Y. Zhang, J. Lin, et al., "Prevalence trends of site-specific osteoarthritis from 1990 to 2019: Findings from the global burden of disease study 2019," *Arthritis Rheumatol*, vol. 74, no. 7, pp. 1172-1183, 2022.
 
 [7] A. Cieza, K. Causey, K. Kamenow, S. Wulf Hansen, S. Chatterji, and T. Vos, "Global estimates of the need for rehabilitation based on the Global Burden of Disease study 2019: a systematic analysis for the Global Burden of Disease Study 2019," *Lancet*, vol. 396, no. 10267, pp. 2006–2017, Dec. 2020.
 
-[8] R. L. Routson, M. Bailey, I. Pumford, J. M. Czerniecki, y P. M. Aubin, «A smart cane with vibrotactile biofeedback improves cane loading for people with knee osteoarthritis», en 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), ago. 2016, pp. 3370-3373. doi: 10.1109/EMBC.2016.7591450.
+[8] R. L. Routson, M. Bailey, I. Pumford, J. M. Czerniecki, y P. M. Aubin, «A smart cane with vibrotactile biofeedback improves cane loading for people with knee osteoarthritis», *2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, ago. 2016, pp. 3370-3373. doi: 10.1109/EMBC.2016.7591450.
 
-[9]  Y. Niitsu, T. Taniguchi, y K. Kawashima, «Detection and notification of dangerous obstacles and places for visually impaired persons using a smart cane», en 2014 Seventh International Conference on Mobile Computing and Ubiquitous Networking (ICMU), ene. 2014, pp. 68-69. doi: 10.1109/ICMU.2014.6799060.
+[9]  
 
 [10] 
 
-[11] A. Ulfa, A. A. Rosspertiwi, A. Sahroni, y S. Murnani, «S-Cane: Ultrasonic Sensor-Based Smart Cane for the Visually Impaired», en 2023 IEEE International Biomedical Instrumentation and Technology Conference (IBITeC), nov. 2023, pp. 7-11. doi: 10.1109/IBITeC59006.2023.10390939.
+[11] 
 
-[12] T. Wang, R. Grobler, y E. Monacelli, «EVAL Cane: An IoT based Smart Cane for the Evaluation of Walking Gait and Environment», en 2020 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB), oct. 2020, pp. 1-4. doi: 10.1109/BMSB49480.2020.9379468.
+[12] 
 
-[13] O. Appiah and W. Elmannai, "A Smart Cane with Fall Detection System for People with Visual Impairments," 2023 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Abu Dhabi, United Arab Emirates, 2023, pp. 1010-1015, doi: 10.1109/DASC/PiCom/CBDCom/Cy59711.2023.10361350.
 
