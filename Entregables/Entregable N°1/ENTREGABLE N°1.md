@@ -1,15 +1,28 @@
 ### ENTREGABLE N°1
-# ALTO RIESGO DE SUFRIR CAÍDAS DEBIDO A LA PÉRDIDA DE EQUILIBRIO Y MOVILIDAD POR LA EDAD
+# ESCASEZ Y ALTO COSTO DE LOS BASTONES CON SENSORES DE CARGA
+![dfcb30_b82a837c42ea4b7190653340daab7b6f~mv2](https://github.com/user-attachments/assets/370eccb8-8d01-4c8b-a777-d819f2606e75)
+
+
+
+## ÍNDICE
+- [OBJETIVO](https://github.com/sophvillah/FUNDBIOgrupo12/edit/main/Entregables/Entregable%20N%C2%B01/ENTREGABLE%20N%C2%B01.md#objetivo)
+- [PALABRAS CLAVE](URL "Título del enlace")
+- [DESARROLLO DE LA TEMÁTICA](URL "Título del enlace")
+- [ESTADO DEL ARTE CIENTÍFICO](URL "Título del enlace")
+- [DIAGRAMA DE ISHIKAWA](URL "Título del enlace")
+- [DEFINICIÓN DEL PROBLEMA](URL "Título del enlace")
+- [BIBLIOGRAFÍA](URL "Título del enlace")
+ 
 
 ### OBJETIVO
 
-El principal objetivo de este entregable es profundizar el contexto mundial y nacional de la problemática escogida, alto riesgo de sufrir caídas debido a la pérdida de equilibrio y movilidad por la edad. Para ello, se han consultado diversos artículos científicos, estado del arte científico, que han permitido establecer un panorama más claro para analizar la implementación de un Open Hardware como propuesta de solución.
+El principal objetivo de este entregable es profundizar el contexto mundial y nacional de la problemática, alta demanda de pacientes con osteoartritis que no logran recuperar su marcha habitual y escasez de equipos fisioterapéuticos, precisamente, bastones de fuerza, en los centros médicos .Para ello, se han consultado diversos artículos científicos, estado del arte científico, que han permitido establecer un panorama más claro para analizar la implementación de un Open Hardware como propuesta de solución.
 
 ### PALABRAS CLAVE
 
-1. **Giroscopio:** Mide la rotación y orientación de un objeto basándose en el principio de conservación del momento angular [1].
+1. **Giroscopio:**  Mide la rotación y orientación de un objeto basándose en el principio de conservación del momento angular [1].
 2. **Acelerómetro:** Detecta cambios en la aceleración lineal y en la inclinación del dispositivo respecto a la gravedad, por lo que proporciona datos sobre la velocidad y la orientación en un eje específico [2].
-3. **LIDAR:** Sensor que utiliza pulsos de luz láser para medir la distancia a objetos y crear mapas 3D detallados de su entorno, proporcionando información precisa sobre la forma y la posición de los objetos [3].
+3. **Osteoartritis:** Enfermedad articular degenerativa que provoca hinchazón,rigidez y dolor afectando la capacidad de una persona para desplazarse.[3] 
 4. **Bastón inteligente:** Ayuda a mejorar la movilidad y seguridad de personas mayores o con discapacidad al detectar y alertar sobre obstáculos y cambios en el terreno [4].
 
 ### DESARROLLO DE LA TEMÁTICA
@@ -18,15 +31,11 @@ El hardware abierto u open hardware, son aquellos cuyos diseños de dispositivos
 
 ### CONTEXTO MUNDIAL Y NACIONAL
 
-Hasta 2021, se registraron 761 millones de personas mayores de 65 años a nivel mundial, según datos de la ONU. En Perú, el INEI reportó que para 2023 había casi 4.6 millones de personas mayores de 60. Estos datos hacen dar cuenta que existe un gran porcentaje de adultos mayor tanto en el mundo como en el Perú. 
+Según la OMS, hay 365 millones de personas que padecen osteoartritis [6], de ellas, 344 millones de personas presentan niveles de gravedad que podrían beneficiarse de la rehabilitación o con un soporte externo como un bastón [7].
+La prescripción de un bastón es un método común de tratamiento para pacientes con osteoartritis de rodilla, pues su uso puede reducir la carga medial de la rodilla durante la marcha. Además, cuando se utiliza en la mano contralateral, se ha demostrado que disminuye el momento de aducción de la rodilla en un promedio del 10%, e incluso en algunos casos puede reducirlo hasta un 20%. Estudios recientes han evidenciado una relación dosis-respuesta entre la carga aplicada en el bastón y la reducción del momento de aducción de la rodilla, mostrando que una carga del bastón equivalente al 20% del peso corporal disminuye de manera efectiva la carga en la articulación de la rodilla [8].
 
-A medida que las personas van llegando a la tercera edad empiezan a padecer diferentes dolencias que afectan radicalmente su estilo de vida. Entre las cuales se encuentran principalmente la pérdida de audición, visión y movilidad. Además, las caídas pueden ser críticas en su cuerpo, siendo una de las principales causas de mortalidad y morbilidad, adicionalmente casi la tercera parte de adultos mayores al menos sufre de una caída al año [6]. Estás caídas pueden generar lesiones muy graves que agravan aún más su estilo de vida.
+La incorporación de celdas de carga en los bastones se está utilizando para proporcionar a los médicos y pacientes los datos de carga durante el uso del bastón y algunos bastones brindan retroalimentación auditiva o visual en tiempo real. Sin embargo, estos dispositivos tienen costos elevados [8]. En Perú, el precio elevado y la escasez de bastones con sensores de fuerza en los centros de salud afectan significativamente la efectividad de las terapias de rehabilitación para pacientes con osteoartritis.
 
-Teniendo en cuenta lo anterior, es por ello que las personas de tercera edad se apoyan de un bastón que ayuda tanto a aliviar el peso o a ser un apoyo extra al momento de andar. Sin embargo, de acuerdo con un estudio se observó que las personas no saben cómo usar correctamente el bastón [7]. Además en Perú, lamentablemente existen muchos baches o partes elevadas con las que uno fácilmente se puede tropezar por lo que solamente un bastón simple no necesariamente puede ser de gran ayuda. 
-
-Existe otro tipo de bastón llamado bastón blanco que es una guía para personas con discapacidad visual que ayuda a detectar objetos al momento que la persona esté andando. En la actualidad existen varios prototipos que le añaden sensores ultrasónicos [6], [8], [9] para que sin la necesidad de que el bastón haga contacto puede detectar objetos relativamente cercanos. 
-
-Este proyecto lo que busca es un bastón que combine la característica principal de un bastón, apoyo, y que adicionalmente tenga sensores ultrasónicos para la detección de baches que un adulto mayor no pueda detectarlo a simple vista o simplemente no lo vea. 
 
 ### ESTADO DEL ARTE CIENTÍFICO
 
@@ -58,26 +67,24 @@ Información extraída de [13].
 
 ### DEFINICIÓN DEL PROBLEMA
 
-A medida que las personas envejecen, su equilibrio, movilidad y capacidad de reacción ante situaciones de riesgo tienden a disminuir. Esto crea un mayor riesgo de caídas, lo cual respecta una las principales causas de lesiones graves e ingresos hospitalarios entre las personas mayores. Estas caídas pueden provocar fracturas, pérdida de confianza al caminar y, en muchos casos, disminución de la independencia, con un impacto negativo en la calidad de vida. Además, consecuencias emocionales como el miedo a volver a caer pueden provocar aislamiento social. Por ello, es fundamental desarrollar soluciones innovadoras que avisen tempranamente de posibles caídas, aportando seguridad y apoyo.
-
-El alto riesgo de caídas en las personas mayores está influenciado por varios factores que interactúan entre sí. Aunque los problemas articulares, como la artrosis y la osteoporosis, afectan a la movilidad; es la debilidad muscular, consecuencia del sedentarismo y una nutrición inadecuada, la que agrava aún más la situación. Asimismo, las deficiencias visuales causadas por cataratas o glaucoma reducen la capacidad de percibir el entorno; así como, los trastornos neurológicos como el Parkinson y las consecuencias del accidente cerebrovascular que también limitan las respuestas físicas y motoras. A esto se suma la pérdida del equilibrio, donde los reflejos ralentizados por la edad contrastan con la necesidad de independencia, generando el miedo a caer que, en lugar de proteger, refuerza la inseguridad al caminar [13].
+La incorporación de celdas de carga en los bastones tiene costos elevados, lo que dificulta su adquisición, y la mayoría de los usuarios no reciben instrucciones adecuadas sobre cómo utilizarlos eficazmente para descargar el peso de la rodilla. Además, desconocen cuánto porcentaje de su peso está soportando el bastón. Esta situación, sumada al alto precio y la escasez de bastones con sensores de fuerza en los centros de salud del Perú, afecta significativamente la efectividad de las terapias de rehabilitación de osteoartritis, ya que estos instrumentos representan una herramienta clave en dicho proceso.
 
 ### BIBLIOGRAFÍA
 [1] S. Reif-Acherman, "Juguetes como instrumentos de enseñanza en ingeniería: los casos del péndulo de Newton y el giroscopio," Ingeniería y competitividad, vol. 16, no. 2, pp. 189-198, 2014.
 
 [2] M. J. Aguilar Cordero, A. M. Sánchez López, G. Barrilao, R. Rodríguez Blanque, J. Noack Segovia, y P. Cano, "Descripción del acelerómetro como método para valorar la actividad física en los diferentes periodos de la vida: revisión sistemática," Nutrición hospitalaria, vol. 29, no. 6, pp. 1250-1261, 2014.
 
-[3] R. T. H. Collis, "Lidar," Applied Optics, vol. 9, no. 8, pp. 1782-1788, 1970.
+[3]H. A. Wieland, M. Michaelis, B. J. Kirschbaum, and K. A. Rudolphi, "Osteoarthritis—an untreatable disease?," Nat. Rev. Drug Discov., vol. 4, no. 4, pp. 331-344, 2005.
 
 [4] O. A. Murillo Cordoba and C. A. Serna Franco, "Prototipo de bastón inteligente para personas con limitación visual," 2017.
 
 [5] Isaac, “Open Hardware: todo lo que necesitas saber - Profesional Review. https://www.profesionalreview.com/2022/07/16/open-hardware/
 
-[6] O. Appiah y W. Elmannai, «A Smart Cane with Fall Detection System for People with Visual Impairments», nov. 2023, pp. 1010-1015. doi: 10.1109/DASC/PiCom/CBDCom/Cy59711.2023.10361350.
+[6]H. Long, Q. Liu, H. Yin, N. Diao, Y. Zhang, J. Lin, et al., "Prevalence trends of site-specific osteoarthritis from 1990 to 2019: Findings from the global burden of disease study 2019," *Arthritis Rheumatol*, vol. 74, no. 7, pp. 1172-1183, 2022.
 
- [7] E. Schuster et al., «A Novel Walking Cane with Haptic Biofeedback Reduces Knee Adduction Moment in the Osteoarthritic Knee», J Biomech, vol. 114, p. 110150, ene. 2021, doi: 10.1016/j.jbiomech.2020.110150.
+[7] A. Cieza, K. Causey, K. Kamenow, S. Wulf Hansen, S. Chatterji, and T. Vos, "Global estimates of the need for rehabilitation based on the Global Burden of Disease study 2019: a systematic analysis for the Global Burden of Disease Study 2019," *Lancet*, vol. 396, no. 10267, pp. 2006–2017, Dec. 2020.
 
-[8] I. Vineeth, Y. H. V. S. Sharan, Y. Karthik, y B. K. Priya, «Smart Cane for Visually Impaired Person», en 2021 International Conference on Intelligent Technologies (CONIT), jun. 2021, pp. 1-6. doi: 10.1109/CONIT51480.2021.9498563.
+[8] R. L. Routson, M. Bailey, I. Pumford, J. M. Czerniecki, y P. M. Aubin, «A smart cane with vibrotactile biofeedback improves cane loading for people with knee osteoarthritis», en 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), ago. 2016, pp. 3370-3373. doi: 10.1109/EMBC.2016.7591450.
 
 [9]  Y. Niitsu, T. Taniguchi, y K. Kawashima, «Detection and notification of dangerous obstacles and places for visually impaired persons using a smart cane», en 2014 Seventh International Conference on Mobile Computing and Ubiquitous Networking (ICMU), ene. 2014, pp. 68-69. doi: 10.1109/ICMU.2014.6799060.
 
