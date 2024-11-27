@@ -13,9 +13,7 @@
 
   Según la OMS, hay 365 millones de personas que padecen osteoartritis, de ellas, 344 millones de personas presentan niveles de gravedad que podrían beneficiarse de la rehabilitación o con un soporte externo como un bastón [1].
 
-
   La prescripción de un bastón es un tratamiento común para pacientes con osteoartritis o que simplemente necesiten de un apoyo que pueda amortiguar su peso, ya que puede reducir la carga en la rodilla generando alivio durante la marcha [2].
-
 
   Estudios muestran una relación directa entre la carga del bastón y la reducción del momento de aducción de la rodilla (KAM). Al aplicar una carga del 20% o mayor del peso corporal en el bastón, se logra una disminución significativa, lo que reduce el dolor y mejora la funcionalidad de la rodilla. \-Sin embargo, la mayoría de los usuarios no reciben instrucciones adecuadas sobre cómo utilizar el bastón eficazmente para descargar el peso de la rodilla. Además, no saben cuánto porcentaje de su peso está soportando el bastón. Y diseñar todo un bastón implementado puede resultar difícil de adquirir. Por ello, proponemos Sticky Cane, un dispositivo adaptable que mide la carga del bastón, ofreciendo una alternativa económica para la complementación de la rehabilitación en clínicas [3].
 
