@@ -93,4 +93,8 @@ Link en OnShape: https://cad.onshape.com/documents/275569d710298cd743c4b58b/w/ef
 4. Mejorar el diseño de tal manera que los nuevos móudluos que se incorporen no afecten con la distribución ya hecha.
 
 ## REFERENCIAS:
-[1]
+[1] H. Long, Q. Liu, H. Yin, N. Diao, Y. Zhang, J. Lin, et al., "Prevalence trends of site-specific osteoarthritis from 1990 to 2019: Findings from the global burden of disease study 2019," *Arthritis Rheumatol*, vol. 74, no. 7, pp. 1172-1183, 2022.
+
+[2] A. Cieza, K. Causey, K. Kamenow, S. Wulf Hansen, S. Chatterji, and T. Vos, "Global estimates of the need for rehabilitation based on the Global Burden of Disease study 2019: a systematic analysis for the Global Burden of Disease Study 2019," *Lancet*, vol. 396, no. 10267, pp. 2006–2017, Dec. 2020.
+
+[3] R. L. Routson, M. Bailey, I. Pumford, J. M. Czerniecki, y P. M. Aubin, «A smart cane with vibrotactile biofeedback improves cane loading for people with knee osteoarthritis», en 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), ago. 2016, pp. 3370-3373. doi: 10.1109/EMBC.2016.7591450.
